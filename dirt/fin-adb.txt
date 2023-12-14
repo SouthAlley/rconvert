@@ -1,5 +1,5 @@
-# Adblock total line 3838
-# Last updated Wed 12/13/2023 22:07:08.18
+# Adblock total line 3842
+# Last updated 周四 2023/12/14 15:02:32.18
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||a.iqmtp.live^
 ||analytics.strava.com^
@@ -962,6 +962,7 @@
 ||cloudzhongshan.com^
 ||cloudzhuhai.com^
 ||clsa.com^
+||cm.steampowered.com^
 ||cmb-leasing.com^
 ||cmbchina.biz^
 ||cmbchina.com^
@@ -2618,7 +2619,9 @@
 ||paopaoche.net^
 ||papocket.com^
 ||passthepopcorn.me^
+||paypal-mktg.com^
 ||paypal.com^
+||paypal.me^
 ||paypalobjects.com^
 ||pc6.com^
 ||pcbeta.com^
@@ -2998,6 +3001,7 @@
 ||staticfile.org^
 ||stcn.com^
 ||steampp.net^
+||steamserver.net^
 ||stockstar.com^
 ||suanya.com^
 ||sui.com^

@@ -1,5 +1,5 @@
-# Quantumult total line 4126
-# Last updated Wed 12/13/2023 22:07:08.04
+# Quantumult total line 4130
+# Last updated 周四 2023/12/14 15:02:31.70
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -962,6 +962,7 @@ HOST-SUFFIX,cloudyuxi.com,LIST
 HOST-SUFFIX,cloudzhongshan.com,LIST
 HOST-SUFFIX,cloudzhuhai.com,LIST
 HOST-SUFFIX,clsa.com,LIST
+HOST-SUFFIX,cm.steampowered.com,LIST
 HOST-SUFFIX,cmb-leasing.com,LIST
 HOST-SUFFIX,cmbchina.biz,LIST
 HOST-SUFFIX,cmbchina.com,LIST
@@ -2618,7 +2619,9 @@ HOST-SUFFIX,pangolin-sdk-toutiao.com,LIST
 HOST-SUFFIX,paopaoche.net,LIST
 HOST-SUFFIX,papocket.com,LIST
 HOST-SUFFIX,passthepopcorn.me,LIST
+HOST-SUFFIX,paypal-mktg.com,LIST
 HOST-SUFFIX,paypal.com,LIST
+HOST-SUFFIX,paypal.me,LIST
 HOST-SUFFIX,paypalobjects.com,LIST
 HOST-SUFFIX,pc6.com,LIST
 HOST-SUFFIX,pcbeta.com,LIST
@@ -2998,6 +3001,7 @@ HOST-SUFFIX,staticdn.net,LIST
 HOST-SUFFIX,staticfile.org,LIST
 HOST-SUFFIX,stcn.com,LIST
 HOST-SUFFIX,steampp.net,LIST
+HOST-SUFFIX,steamserver.net,LIST
 HOST-SUFFIX,stockstar.com,LIST
 HOST-SUFFIX,suanya.com,LIST
 HOST-SUFFIX,sui.com,LIST
