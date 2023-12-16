@@ -1,5 +1,5 @@
-# Clash total line 4170
-# Last updated 周四 2023/12/14 15:02:31.79
+# Clash total line 4173
+# Last updated Sat 12/16/2023 22:06:46.35
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,a.iqmtp.live
@@ -624,6 +624,7 @@ payload:
   - DOMAIN-SUFFIX,bootcdn.net
   - DOMAIN-SUFFIX,bootcss.com
   - DOMAIN-SUFFIX,bosera.com
+  - DOMAIN-SUFFIX,bosszhipin.com
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,bstatic.com
@@ -1721,6 +1722,7 @@ payload:
   - DOMAIN-SUFFIX,hwclouds-dns.net
   - DOMAIN-SUFFIX,hwclouds.mobi
   - DOMAIN-SUFFIX,hwcloudvis.com
+  - DOMAIN-SUFFIX,hwht.com
   - DOMAIN-SUFFIX,hwocloud.com
   - DOMAIN-SUFFIX,hwshu.com
   - DOMAIN-SUFFIX,hwtrip.com
@@ -2844,6 +2846,7 @@ payload:
   - DOMAIN-SUFFIX,sanwen.net
   - DOMAIN-SUFFIX,saolife.com
   - DOMAIN-SUFFIX,saraba1st.com
+  - DOMAIN-SUFFIX,saxyit.com
   - DOMAIN-SUFFIX,sbsjk.com
   - DOMAIN-SUFFIX,sc96655.com
   - DOMAIN-SUFFIX,scdng.com

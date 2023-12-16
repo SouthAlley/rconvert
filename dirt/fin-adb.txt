@@ -1,5 +1,5 @@
-# Adblock total line 3842
-# Last updated 周四 2023/12/14 15:02:32.18
+# Adblock total line 3845
+# Last updated Sat 12/16/2023 22:06:46.44
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||a.iqmtp.live^
 ||analytics.strava.com^
@@ -623,6 +623,7 @@
 ||bootcdn.net^
 ||bootcss.com^
 ||bosera.com^
+||bosszhipin.com^
 ||broadcasthe.net^
 ||browserleaks.com^
 ||bstatic.com^
@@ -1720,6 +1721,7 @@
 ||hwclouds-dns.net^
 ||hwclouds.mobi^
 ||hwcloudvis.com^
+||hwht.com^
 ||hwocloud.com^
 ||hwshu.com^
 ||hwtrip.com^
@@ -2843,6 +2845,7 @@
 ||sanwen.net^
 ||saolife.com^
 ||saraba1st.com^
+||saxyit.com^
 ||sbsjk.com^
 ||sc96655.com^
 ||scdng.com^

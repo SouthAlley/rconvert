@@ -1,5 +1,5 @@
-# Quantumult total line 4130
-# Last updated 周四 2023/12/14 15:02:31.70
+# Quantumult total line 4133
+# Last updated Sat 12/16/2023 22:06:46.31
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -623,6 +623,7 @@ HOST-SUFFIX,boosj.com,LIST
 HOST-SUFFIX,bootcdn.net,LIST
 HOST-SUFFIX,bootcss.com,LIST
 HOST-SUFFIX,bosera.com,LIST
+HOST-SUFFIX,bosszhipin.com,LIST
 HOST-SUFFIX,broadcasthe.net,LIST
 HOST-SUFFIX,browserleaks.com,LIST
 HOST-SUFFIX,bstatic.com,LIST
@@ -1720,6 +1721,7 @@ HOST-SUFFIX,hwclouds-dns.com,LIST
 HOST-SUFFIX,hwclouds-dns.net,LIST
 HOST-SUFFIX,hwclouds.mobi,LIST
 HOST-SUFFIX,hwcloudvis.com,LIST
+HOST-SUFFIX,hwht.com,LIST
 HOST-SUFFIX,hwocloud.com,LIST
 HOST-SUFFIX,hwshu.com,LIST
 HOST-SUFFIX,hwtrip.com,LIST
@@ -2843,6 +2845,7 @@ HOST-SUFFIX,sankuai.com,LIST
 HOST-SUFFIX,sanwen.net,LIST
 HOST-SUFFIX,saolife.com,LIST
 HOST-SUFFIX,saraba1st.com,LIST
+HOST-SUFFIX,saxyit.com,LIST
 HOST-SUFFIX,sbsjk.com,LIST
 HOST-SUFFIX,sc96655.com,LIST
 HOST-SUFFIX,scdng.com,LIST
