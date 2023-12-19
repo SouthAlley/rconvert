@@ -1,11 +1,12 @@
-# Adblock total line 3845
-# Last updated Sat 12/16/2023 22:06:46.44
+# Adblock total line 3843
+# Last updated Tue 12/19/2023 22:05:51.98
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||a.iqmtp.live^
 ||analytics.strava.com^
 ||blzddist1-a.akamaihd.net^
 ||cdn.angruo.com^
 ||cdp.cloud.unity3d.com^
+||client.amplifi.com^
 ||cn.download.nvidia.com^
 ||dl.google.com^
 ||dl.steam.clngaa.com^
@@ -317,7 +318,6 @@
 ||acadn.com^
 ||acctdns.com^
 ||acctdns.net^
-||accuweather.com^
 ||acetaffy.club^
 ||acfun.com^
 ||acfun.tv^
@@ -468,6 +468,7 @@
 ||applysquare.com^
 ||applysquare.net^
 ||appshike.com^
+||appsimg.com^
 ||aps.org^
 ||arpun.com^
 ||ascelibrary.org^
@@ -536,7 +537,6 @@
 ||beijing-lipin.com^
 ||beitai.pt^
 ||beitaichufang.com^
-||bemanicn.cc^
 ||bengbeng.com^
 ||benghuai.com^
 ||benmi.com^
@@ -665,6 +665,7 @@
 ||cailianpress.com^
 ||cainiao-inc.com^
 ||cainiao.com^
+||cainiaoyizhan.com^
 ||caixin.com^
 ||caiyu.com^
 ||caiyun.com^
@@ -1035,6 +1036,7 @@
 ||computeinit.com^
 ||comsenz.com^
 ||concertos.live^
+||content.steamchina.com^
 ||contentchina.com^
 ||coolapk.com^
 ||coolapkmarket.com^
@@ -1091,7 +1093,6 @@
 ||cubead.com^
 ||cwxzx.com^
 ||cxbiji.com^
-||cya.gg^
 ||cyagen.com^
 ||cybtc.com^
 ||cyol.com^
@@ -1471,7 +1472,6 @@
 ||geekpark.net^
 ||geetest.com^
 ||geilicdn.com^
-||getpricetag.com^
 ||getui.com^
 ||gezida.com^
 ||gfan.com^
@@ -1858,9 +1858,7 @@
 ||ipplus360.com^
 ||iprdp.net^
 ||ipssh.net^
-||ipv4.rainway.com^
 ||ipv6-test.com^
-||ipv6.rainway.com^
 ||iq.com^
 ||iranshao.com^
 ||irs01.com^
@@ -2221,6 +2219,7 @@
 ||leetcode-cn.com^
 ||leigod.com^
 ||leikeji.com^
+||leiniao.com^
 ||leiphone.com^
 ||leiting.com^
 ||leju.com^
@@ -2243,7 +2242,6 @@
 ||liba.com^
 ||libaclub.com^
 ||libguides.com^
-||licdn.com^
 ||liepin.com^
 ||lietou-static.com^
 ||lietou.com^
@@ -2448,8 +2446,6 @@
 ||mscbsc.com^
 ||msecnd.net^
 ||msedge.net^
-||msftconnecttest.com^
-||msftncsi.com^
 ||msg.vg^
 ||mshare.cc^
 ||msn.com^
@@ -2631,6 +2627,7 @@
 ||pcpop.com^
 ||pddpic.com^
 ||peccn.com^
+||peiluyou.com^
 ||pglstatp-toutiao.com^
 ||pgyer.com^
 ||pgzs.com^
@@ -3048,6 +3045,7 @@
 ||tamaegis.com^
 ||tandfonline.com^
 ||tangeche.com^
+||tantanapp.com^
 ||tanx.com^
 ||tanxlog.istreamsche.com^
 ||tao123.com^
@@ -3089,7 +3087,6 @@
 ||teambition.com^
 ||teambition.net^
 ||teambitionapis.com^
-||teamviewer.com^
 ||techo.chat^
 ||tefscloud.com^
 ||tefscloud.net^
@@ -3370,7 +3367,6 @@
 ||vivo.com^
 ||vmall.com^
 ||vmallres.com^
-||vmware.com^
 ||vobao.com^
 ||vodtcbk.com^
 ||volccdn.com^
@@ -3479,6 +3475,7 @@
 ||woyaogexing.com^
 ||woyoo.com^
 ||wps.com^
+||wpscdn.com^
 ||wqiis.com^
 ||wrating.com^
 ||wscdns.com^
@@ -3755,6 +3752,7 @@
 ||zhangle.com^
 ||zhangyoubao.com^
 ||zhangzishi.cc^
+||zhangzs.com^
 ||zhanqi.tv^
 ||zhanzhang.net^
 ||zhaodanji.com^
@@ -3817,6 +3815,7 @@
 ||zuchecdn.com^
 ||zuhaowan.com^
 ||zuidaima.com^
+||zuimeitianqi.com^
 ||zuodao.com^
 ||zuowen8.com^
 ||zuowenwang.net^
@@ -3829,7 +3828,6 @@
 /alicdn/
 /alipay/
 /aliyun/
-/amplifi/
 /baidu/
 /beplay/
 /cnki.net/

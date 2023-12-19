@@ -1,5 +1,5 @@
-# Clash total line 4688
-# Last updated Sat 12/16/2023 22:06:39.95
+# Clash total line 4701
+# Last updated Tue 12/19/2023 22:05:45.05
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -82,6 +82,7 @@ payload:
   - DOMAIN,assets.gumroad.com
   - DOMAIN,assets.habr.com
   - DOMAIN,assets.holopin.io
+  - DOMAIN,assets.humix.com
   - DOMAIN,assets.ifttt.com
   - DOMAIN,assets.ipstack.com
   - DOMAIN,assets.jable.tv
@@ -544,6 +545,7 @@ payload:
   - DOMAIN,forest-mt-s3.seekrtech.com
   - DOMAIN,formulae.brew.sh
   - DOMAIN,frames-commandbar-prod.commandbar.com
+  - DOMAIN,ftp.gnu.org
   - DOMAIN,g-static.ap4r.com
   - DOMAIN,genesis-cdn.ff.com
   - DOMAIN,geoip-js.com
@@ -797,6 +799,7 @@ payload:
   - DOMAIN,o.n1mp.org
   - DOMAIN,objects.g0v.social
   - DOMAIN,objects.hit.moe
+  - DOMAIN,ocecdn.oraclecloud.com
   - DOMAIN,ocvideo.apple.com
   - DOMAIN,ooo.0o0.ooo
   - DOMAIN,ooo.o0o.ooo
@@ -875,6 +878,7 @@ payload:
   - DOMAIN,raw.github.com
   - DOMAIN,react.dev
   - DOMAIN,rebound.postmarkapp.com
+  - DOMAIN,redstone-launcher.mojang.com
   - DOMAIN,registry-cdn.wapm.io
   - DOMAIN,registry.bower.io
   - DOMAIN,registry.npmjs.cf
@@ -975,6 +979,7 @@ payload:
   - DOMAIN,services.linkfire.com
   - DOMAIN,share.riseup.net
   - DOMAIN,shopify.cleverecommerce.com
+  - DOMAIN,shots.codepen.io
   - DOMAIN,showcase.abovemarket.com
   - DOMAIN,sig.grumpybumpers.com
   - DOMAIN,sigma9.zokhoi.com
@@ -1613,6 +1618,7 @@ payload:
   - DOMAIN-SUFFIX,cobuz.fr
   - DOMAIN-SUFFIX,cobuzz.fr
   - DOMAIN-SUFFIX,codeberg.page
+  - DOMAIN-SUFFIX,codepenassets.com
   - DOMAIN-SUFFIX,combinatronics.io
   - DOMAIN-SUFFIX,comicporn.xxx
   - DOMAIN-SUFFIX,connatix.com
@@ -2754,6 +2760,7 @@ payload:
   - DOMAIN-SUFFIX,nebula.app
   - DOMAIN-SUFFIX,nel.cloudflare.com
   - DOMAIN-SUFFIX,nelion.me
+  - DOMAIN-SUFFIX,nelreports.net
   - DOMAIN-SUFFIX,nest.land
   - DOMAIN-SUFFIX,net.anydesk.com
   - DOMAIN-SUFFIX,netdna-cdn.com
@@ -4641,13 +4648,16 @@ payload:
   - USER-AGENT,Disney*
   - USER-AGENT,Disney+*
   - USER-AGENT,FOX%20NOW*
+  - USER-AGENT,FOXNOW*
   - USER-AGENT,FOXPlus*
   - USER-AGENT,Google.Drive*
   - USER-AGENT,HBO%20GO%20PROD%20HKG*
   - USER-AGENT,HBO%20GO%20PROD*
   - USER-AGENT,HBO%20NOW*
   - USER-AGENT,HBO*
+  - USER-AGENT,HBOGOPRODHKG*
   - USER-AGENT,HBOMAX*
+  - USER-AGENT,HBONOW*
   - USER-AGENT,HWTVMobile*
   - USER-AGENT,Himalaya*
   - USER-AGENT,Hulu*
@@ -4657,9 +4667,11 @@ payload:
   - USER-AGENT,KKTV*
   - USER-AGENT,LINE%20TV*
   - USER-AGENT,LINE*
+  - USER-AGENT,LINETV*
   - USER-AGENT,Max*
   - USER-AGENT,My5*
   - USER-AGENT,Naver%20TV*
+  - USER-AGENT,NaverTV*
   - USER-AGENT,Niconico*
   - USER-AGENT,OneDrive*
   - USER-AGENT,OneDriveiOSApp*
@@ -4669,6 +4681,7 @@ payload:
   - USER-AGENT,Pandora*
   - USER-AGENT,PeacockMobile*
   - USER-AGENT,Prime%20Video*
+  - USER-AGENT,PrimeVideo*
   - USER-AGENT,SoundCloud*
   - USER-AGENT,Spotify*
   - USER-AGENT,TIDAL*

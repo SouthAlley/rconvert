@@ -1,5 +1,5 @@
-# Adblock total line 3670
-# Last updated Sat 12/16/2023 22:06:40.04
+# Adblock total line 3677
+# Last updated Tue 12/19/2023 22:05:45.14
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -81,6 +81,7 @@
 ||assets.gumroad.com^
 ||assets.habr.com^
 ||assets.holopin.io^
+||assets.humix.com^
 ||assets.ifttt.com^
 ||assets.ipstack.com^
 ||assets.jable.tv^
@@ -543,6 +544,7 @@
 ||forest-mt-s3.seekrtech.com^
 ||formulae.brew.sh^
 ||frames-commandbar-prod.commandbar.com^
+||ftp.gnu.org^
 ||g-static.ap4r.com^
 ||genesis-cdn.ff.com^
 ||geoip-js.com^
@@ -796,6 +798,7 @@
 ||o.n1mp.org^
 ||objects.g0v.social^
 ||objects.hit.moe^
+||ocecdn.oraclecloud.com^
 ||ocvideo.apple.com^
 ||ooo.0o0.ooo^
 ||ooo.o0o.ooo^
@@ -874,6 +877,7 @@
 ||raw.github.com^
 ||react.dev^
 ||rebound.postmarkapp.com^
+||redstone-launcher.mojang.com^
 ||registry-cdn.wapm.io^
 ||registry.bower.io^
 ||registry.npmjs.cf^
@@ -974,6 +978,7 @@
 ||services.linkfire.com^
 ||share.riseup.net^
 ||shopify.cleverecommerce.com^
+||shots.codepen.io^
 ||showcase.abovemarket.com^
 ||sig.grumpybumpers.com^
 ||sigma9.zokhoi.com^
@@ -1612,6 +1617,7 @@
 ||cobuz.fr^
 ||cobuzz.fr^
 ||codeberg.page^
+||codepenassets.com^
 ||combinatronics.io^
 ||comicporn.xxx^
 ||connatix.com^
@@ -2753,6 +2759,7 @@
 ||nebula.app^
 ||nel.cloudflare.com^
 ||nelion.me^
+||nelreports.net^
 ||nest.land^
 ||net.anydesk.com^
 ||netdna-cdn.com^

@@ -1,5 +1,5 @@
-# Quantumult total line 4673
-# Last updated Sat 12/16/2023 22:06:39.91
+# Quantumult total line 4686
+# Last updated Tue 12/19/2023 22:05:45.02
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -81,6 +81,7 @@ HOST,assets.grammarly.com,LIST
 HOST,assets.gumroad.com,LIST
 HOST,assets.habr.com,LIST
 HOST,assets.holopin.io,LIST
+HOST,assets.humix.com,LIST
 HOST,assets.ifttt.com,LIST
 HOST,assets.ipstack.com,LIST
 HOST,assets.jable.tv,LIST
@@ -543,6 +544,7 @@ HOST,fonts1.unidays.world,LIST
 HOST,forest-mt-s3.seekrtech.com,LIST
 HOST,formulae.brew.sh,LIST
 HOST,frames-commandbar-prod.commandbar.com,LIST
+HOST,ftp.gnu.org,LIST
 HOST,g-static.ap4r.com,LIST
 HOST,genesis-cdn.ff.com,LIST
 HOST,geoip-js.com,LIST
@@ -796,6 +798,7 @@ HOST,nr.staticblitz.com,LIST
 HOST,o.n1mp.org,LIST
 HOST,objects.g0v.social,LIST
 HOST,objects.hit.moe,LIST
+HOST,ocecdn.oraclecloud.com,LIST
 HOST,ocvideo.apple.com,LIST
 HOST,ooo.0o0.ooo,LIST
 HOST,ooo.o0o.ooo,LIST
@@ -874,6 +877,7 @@ HOST,r.r10s.jp,LIST
 HOST,raw.github.com,LIST
 HOST,react.dev,LIST
 HOST,rebound.postmarkapp.com,LIST
+HOST,redstone-launcher.mojang.com,LIST
 HOST,registry-cdn.wapm.io,LIST
 HOST,registry.bower.io,LIST
 HOST,registry.npmjs.cf,LIST
@@ -974,6 +978,7 @@ HOST,secure.telegraph.co.uk,LIST
 HOST,services.linkfire.com,LIST
 HOST,share.riseup.net,LIST
 HOST,shopify.cleverecommerce.com,LIST
+HOST,shots.codepen.io,LIST
 HOST,showcase.abovemarket.com,LIST
 HOST,sig.grumpybumpers.com,LIST
 HOST,sigma9.zokhoi.com,LIST
@@ -1612,6 +1617,7 @@ HOST-SUFFIX,cobeuz.fr,LIST
 HOST-SUFFIX,cobuz.fr,LIST
 HOST-SUFFIX,cobuzz.fr,LIST
 HOST-SUFFIX,codeberg.page,LIST
+HOST-SUFFIX,codepenassets.com,LIST
 HOST-SUFFIX,combinatronics.io,LIST
 HOST-SUFFIX,comicporn.xxx,LIST
 HOST-SUFFIX,connatix.com,LIST
@@ -2753,6 +2759,7 @@ HOST-SUFFIX,nbyy.tv,LIST
 HOST-SUFFIX,nebula.app,LIST
 HOST-SUFFIX,nel.cloudflare.com,LIST
 HOST-SUFFIX,nelion.me,LIST
+HOST-SUFFIX,nelreports.net,LIST
 HOST-SUFFIX,nest.land,LIST
 HOST-SUFFIX,net.anydesk.com,LIST
 HOST-SUFFIX,netdna-cdn.com,LIST
@@ -4625,13 +4632,16 @@ USER-AGENT,Deezer*,LIST
 USER-AGENT,Disney*,LIST
 USER-AGENT,Disney+*,LIST
 USER-AGENT,FOX%20NOW*,LIST
+USER-AGENT,FOXNOW*,LIST
 USER-AGENT,FOXPlus*,LIST
 USER-AGENT,Google.Drive*,LIST
 USER-AGENT,HBO%20GO%20PROD%20HKG*,LIST
 USER-AGENT,HBO%20GO%20PROD*,LIST
 USER-AGENT,HBO%20NOW*,LIST
 USER-AGENT,HBO*,LIST
+USER-AGENT,HBOGOPRODHKG*,LIST
 USER-AGENT,HBOMAX*,LIST
+USER-AGENT,HBONOW*,LIST
 USER-AGENT,HWTVMobile*,LIST
 USER-AGENT,Himalaya*,LIST
 USER-AGENT,Hulu*,LIST
@@ -4641,9 +4651,11 @@ USER-AGENT,JOOX*,LIST
 USER-AGENT,KKTV*,LIST
 USER-AGENT,LINE%20TV*,LIST
 USER-AGENT,LINE*,LIST
+USER-AGENT,LINETV*,LIST
 USER-AGENT,Max*,LIST
 USER-AGENT,My5*,LIST
 USER-AGENT,Naver%20TV*,LIST
+USER-AGENT,NaverTV*,LIST
 USER-AGENT,Niconico*,LIST
 USER-AGENT,OneDrive*,LIST
 USER-AGENT,OneDriveiOSApp*,LIST
@@ -4653,6 +4665,7 @@ USER-AGENT,PPlus*,LIST
 USER-AGENT,Pandora*,LIST
 USER-AGENT,PeacockMobile*,LIST
 USER-AGENT,Prime%20Video*,LIST
+USER-AGENT,PrimeVideo*,LIST
 USER-AGENT,SoundCloud*,LIST
 USER-AGENT,Spotify*,LIST
 USER-AGENT,TIDAL*,LIST

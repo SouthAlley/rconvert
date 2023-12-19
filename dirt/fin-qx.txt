@@ -1,11 +1,12 @@
 # Quantumult total line 4133
-# Last updated Sat 12/16/2023 22:06:46.31
+# Last updated Tue 12/19/2023 22:05:51.85
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
 HOST,blzddist1-a.akamaihd.net,LIST
 HOST,cdn.angruo.com,LIST
 HOST,cdp.cloud.unity3d.com,LIST
+HOST,client.amplifi.com,LIST
 HOST,cn.download.nvidia.com,LIST
 HOST,dl.google.com,LIST
 HOST,dl.steam.clngaa.com,LIST
@@ -317,7 +318,6 @@ HOST-SUFFIX,abhouses.com,LIST
 HOST-SUFFIX,acadn.com,LIST
 HOST-SUFFIX,acctdns.com,LIST
 HOST-SUFFIX,acctdns.net,LIST
-HOST-SUFFIX,accuweather.com,LIST
 HOST-SUFFIX,acetaffy.club,LIST
 HOST-SUFFIX,acfun.com,LIST
 HOST-SUFFIX,acfun.tv,LIST
@@ -468,6 +468,7 @@ HOST-SUFFIX,appinn.com,LIST
 HOST-SUFFIX,applysquare.com,LIST
 HOST-SUFFIX,applysquare.net,LIST
 HOST-SUFFIX,appshike.com,LIST
+HOST-SUFFIX,appsimg.com,LIST
 HOST-SUFFIX,aps.org,LIST
 HOST-SUFFIX,arpun.com,LIST
 HOST-SUFFIX,ascelibrary.org,LIST
@@ -536,7 +537,6 @@ HOST-SUFFIX,beihaidc.com,LIST
 HOST-SUFFIX,beijing-lipin.com,LIST
 HOST-SUFFIX,beitai.pt,LIST
 HOST-SUFFIX,beitaichufang.com,LIST
-HOST-SUFFIX,bemanicn.cc,LIST
 HOST-SUFFIX,bengbeng.com,LIST
 HOST-SUFFIX,benghuai.com,LIST
 HOST-SUFFIX,benmi.com,LIST
@@ -665,6 +665,7 @@ HOST-SUFFIX,caijingwu.com,LIST
 HOST-SUFFIX,cailianpress.com,LIST
 HOST-SUFFIX,cainiao-inc.com,LIST
 HOST-SUFFIX,cainiao.com,LIST
+HOST-SUFFIX,cainiaoyizhan.com,LIST
 HOST-SUFFIX,caixin.com,LIST
 HOST-SUFFIX,caiyu.com,LIST
 HOST-SUFFIX,caiyun.com,LIST
@@ -1035,6 +1036,7 @@ HOST-SUFFIX,comicat.org,LIST
 HOST-SUFFIX,computeinit.com,LIST
 HOST-SUFFIX,comsenz.com,LIST
 HOST-SUFFIX,concertos.live,LIST
+HOST-SUFFIX,content.steamchina.com,LIST
 HOST-SUFFIX,contentchina.com,LIST
 HOST-SUFFIX,coolapk.com,LIST
 HOST-SUFFIX,coolapkmarket.com,LIST
@@ -1091,7 +1093,6 @@ HOST-SUFFIX,ctsec.com,LIST
 HOST-SUFFIX,cubead.com,LIST
 HOST-SUFFIX,cwxzx.com,LIST
 HOST-SUFFIX,cxbiji.com,LIST
-HOST-SUFFIX,cya.gg,LIST
 HOST-SUFFIX,cyagen.com,LIST
 HOST-SUFFIX,cybtc.com,LIST
 HOST-SUFFIX,cyol.com,LIST
@@ -1471,7 +1472,6 @@ HOST-SUFFIX,gdtimg.com,LIST
 HOST-SUFFIX,geekpark.net,LIST
 HOST-SUFFIX,geetest.com,LIST
 HOST-SUFFIX,geilicdn.com,LIST
-HOST-SUFFIX,getpricetag.com,LIST
 HOST-SUFFIX,getui.com,LIST
 HOST-SUFFIX,gezida.com,LIST
 HOST-SUFFIX,gfan.com,LIST
@@ -1858,9 +1858,7 @@ HOST-SUFFIX,ipip.net,LIST
 HOST-SUFFIX,ipplus360.com,LIST
 HOST-SUFFIX,iprdp.net,LIST
 HOST-SUFFIX,ipssh.net,LIST
-HOST-SUFFIX,ipv4.rainway.com,LIST
 HOST-SUFFIX,ipv6-test.com,LIST
-HOST-SUFFIX,ipv6.rainway.com,LIST
 HOST-SUFFIX,iq.com,LIST
 HOST-SUFFIX,iranshao.com,LIST
 HOST-SUFFIX,irs01.com,LIST
@@ -2221,6 +2219,7 @@ HOST-SUFFIX,ledu.com,LIST
 HOST-SUFFIX,leetcode-cn.com,LIST
 HOST-SUFFIX,leigod.com,LIST
 HOST-SUFFIX,leikeji.com,LIST
+HOST-SUFFIX,leiniao.com,LIST
 HOST-SUFFIX,leiphone.com,LIST
 HOST-SUFFIX,leiting.com,LIST
 HOST-SUFFIX,leju.com,LIST
@@ -2243,7 +2242,6 @@ HOST-SUFFIX,liaoxuefeng.com,LIST
 HOST-SUFFIX,liba.com,LIST
 HOST-SUFFIX,libaclub.com,LIST
 HOST-SUFFIX,libguides.com,LIST
-HOST-SUFFIX,licdn.com,LIST
 HOST-SUFFIX,liepin.com,LIST
 HOST-SUFFIX,lietou-static.com,LIST
 HOST-SUFFIX,lietou.com,LIST
@@ -2448,8 +2446,6 @@ HOST-SUFFIX,msauth.net,LIST
 HOST-SUFFIX,mscbsc.com,LIST
 HOST-SUFFIX,msecnd.net,LIST
 HOST-SUFFIX,msedge.net,LIST
-HOST-SUFFIX,msftconnecttest.com,LIST
-HOST-SUFFIX,msftncsi.com,LIST
 HOST-SUFFIX,msg.vg,LIST
 HOST-SUFFIX,mshare.cc,LIST
 HOST-SUFFIX,msn.com,LIST
@@ -2631,6 +2627,7 @@ HOST-SUFFIX,pchome.net,LIST
 HOST-SUFFIX,pcpop.com,LIST
 HOST-SUFFIX,pddpic.com,LIST
 HOST-SUFFIX,peccn.com,LIST
+HOST-SUFFIX,peiluyou.com,LIST
 HOST-SUFFIX,pglstatp-toutiao.com,LIST
 HOST-SUFFIX,pgyer.com,LIST
 HOST-SUFFIX,pgzs.com,LIST
@@ -3048,6 +3045,7 @@ HOST-SUFFIX,takungpao.com,LIST
 HOST-SUFFIX,tamaegis.com,LIST
 HOST-SUFFIX,tandfonline.com,LIST
 HOST-SUFFIX,tangeche.com,LIST
+HOST-SUFFIX,tantanapp.com,LIST
 HOST-SUFFIX,tanx.com,LIST
 HOST-SUFFIX,tanxlog.istreamsche.com,LIST
 HOST-SUFFIX,tao123.com,LIST
@@ -3089,7 +3087,6 @@ HOST-SUFFIX,teachblog.net,LIST
 HOST-SUFFIX,teambition.com,LIST
 HOST-SUFFIX,teambition.net,LIST
 HOST-SUFFIX,teambitionapis.com,LIST
-HOST-SUFFIX,teamviewer.com,LIST
 HOST-SUFFIX,techo.chat,LIST
 HOST-SUFFIX,tefscloud.com,LIST
 HOST-SUFFIX,tefscloud.net,LIST
@@ -3370,7 +3367,6 @@ HOST-SUFFIX,visualstudio.com,LIST
 HOST-SUFFIX,vivo.com,LIST
 HOST-SUFFIX,vmall.com,LIST
 HOST-SUFFIX,vmallres.com,LIST
-HOST-SUFFIX,vmware.com,LIST
 HOST-SUFFIX,vobao.com,LIST
 HOST-SUFFIX,vodtcbk.com,LIST
 HOST-SUFFIX,volccdn.com,LIST
@@ -3479,6 +3475,7 @@ HOST-SUFFIX,worldscientific.com,LIST
 HOST-SUFFIX,woyaogexing.com,LIST
 HOST-SUFFIX,woyoo.com,LIST
 HOST-SUFFIX,wps.com,LIST
+HOST-SUFFIX,wpscdn.com,LIST
 HOST-SUFFIX,wqiis.com,LIST
 HOST-SUFFIX,wrating.com,LIST
 HOST-SUFFIX,wscdns.com,LIST
@@ -3755,6 +3752,7 @@ HOST-SUFFIX,zhanbuba.com,LIST
 HOST-SUFFIX,zhangle.com,LIST
 HOST-SUFFIX,zhangyoubao.com,LIST
 HOST-SUFFIX,zhangzishi.cc,LIST
+HOST-SUFFIX,zhangzs.com,LIST
 HOST-SUFFIX,zhanqi.tv,LIST
 HOST-SUFFIX,zhanzhang.net,LIST
 HOST-SUFFIX,zhaodanji.com,LIST
@@ -3817,6 +3815,7 @@ HOST-SUFFIX,zuche.com,LIST
 HOST-SUFFIX,zuchecdn.com,LIST
 HOST-SUFFIX,zuhaowan.com,LIST
 HOST-SUFFIX,zuidaima.com,LIST
+HOST-SUFFIX,zuimeitianqi.com,LIST
 HOST-SUFFIX,zuodao.com,LIST
 HOST-SUFFIX,zuowen8.com,LIST
 HOST-SUFFIX,zuowenwang.net,LIST
@@ -3829,7 +3828,6 @@ HOST-KEYWORD,.tmall.com,LIST
 HOST-KEYWORD,alicdn,LIST
 HOST-KEYWORD,alipay,LIST
 HOST-KEYWORD,aliyun,LIST
-HOST-KEYWORD,amplifi,LIST
 HOST-KEYWORD,baidu,LIST
 HOST-KEYWORD,beplay,LIST
 HOST-KEYWORD,cnki.net,LIST
@@ -4091,6 +4089,7 @@ USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*,LIST
 USER-AGENT,%E4%BC%98%E9%85%B7*,LIST
 USER-AGENT,%E5%8D%B3%E5%88%BB*,LIST
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91,LIST
+USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*,LIST
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90,LIST
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,LIST
 USER-AGENT,%E8%BF%85%E9%9B%B7,LIST
@@ -4105,6 +4104,7 @@ USER-AGENT,MOO*,LIST
 USER-AGENT,MegaWerewolf*,LIST
 USER-AGENT,MicroMessenger%20Client,LIST
 USER-AGENT,MicroMessenger*,LIST
+USER-AGENT,MicroMessengerClient,LIST
 USER-AGENT,MicroMessengerClient*,LIST
 USER-AGENT,Microsoft*,LIST
 USER-AGENT,MiguVideo*,LIST

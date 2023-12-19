@@ -1,5 +1,5 @@
-# Quantumult total line 2095
-# Last updated Sat 12/16/2023 22:06:31.29
+# Quantumult total line 2101
+# Last updated Tue 12/19/2023 22:05:35.16
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -79,6 +79,7 @@ HOST,assets.grammarly.com,LIST
 HOST,assets.gumroad.com,LIST
 HOST,assets.habr.com,LIST
 HOST,assets.holopin.io,LIST
+HOST,assets.humix.com,LIST
 HOST,assets.ifttt.com,LIST
 HOST,assets.ipstack.com,LIST
 HOST,assets.jable.tv,LIST
@@ -657,6 +658,7 @@ HOST,js.upload.io,LIST
 HOST,js.userflow.com,LIST
 HOST,kdata1.com,LIST
 HOST,lain.bgm.tv,LIST
+HOST,launchercontent.mojang.com,LIST
 HOST,lib.arvancloud.com,LIST
 HOST,libs.quillbot.com,LIST
 HOST,link.storjshare.io,LIST
@@ -741,6 +743,7 @@ HOST,nr.staticblitz.com,LIST
 HOST,o.n1mp.org,LIST
 HOST,objects.g0v.social,LIST
 HOST,objects.hit.moe,LIST
+HOST,ocecdn.oraclecloud.com,LIST
 HOST,ooo.0o0.ooo,LIST
 HOST,ooo.o0o.ooo,LIST
 HOST,openseauserdata.com,LIST
@@ -919,6 +922,7 @@ HOST,secure.telegraph.co.uk,LIST
 HOST,services.linkfire.com,LIST
 HOST,share.riseup.net,LIST
 HOST,shopify.cleverecommerce.com,LIST
+HOST,shots.codepen.io,LIST
 HOST,showcase.abovemarket.com,LIST
 HOST,sig.grumpybumpers.com,LIST
 HOST,sigma9.zokhoi.com,LIST
@@ -1327,6 +1331,7 @@ HOST-SUFFIX,cmail20.com,LIST
 HOST-SUFFIX,cms-cdn.linear.app,LIST
 HOST-SUFFIX,cms.replit.com,LIST
 HOST-SUFFIX,codeberg.page,LIST
+HOST-SUFFIX,codepenassets.com,LIST
 HOST-SUFFIX,combinatronics.io,LIST
 HOST-SUFFIX,coral.coralproject.net,LIST
 HOST-SUFFIX,cos.ap-bangkok.myqcloud.com,LIST
@@ -1578,6 +1583,7 @@ HOST-SUFFIX,myavlive.com,LIST
 HOST-SUFFIX,mypinata.cloud,LIST
 HOST-SUFFIX,myshopapps.com,LIST
 HOST-SUFFIX,nel.cloudflare.com,LIST
+HOST-SUFFIX,nelreports.net,LIST
 HOST-SUFFIX,nest.land,LIST
 HOST-SUFFIX,net.anydesk.com,LIST
 HOST-SUFFIX,netdna-ssl.com,LIST

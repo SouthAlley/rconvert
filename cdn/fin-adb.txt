@@ -1,5 +1,5 @@
-# Adblock total line 2095
-# Last updated Sat 12/16/2023 22:06:31.41
+# Adblock total line 2101
+# Last updated Tue 12/19/2023 22:05:35.27
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -79,6 +79,7 @@
 ||assets.gumroad.com^
 ||assets.habr.com^
 ||assets.holopin.io^
+||assets.humix.com^
 ||assets.ifttt.com^
 ||assets.ipstack.com^
 ||assets.jable.tv^
@@ -657,6 +658,7 @@
 ||js.userflow.com^
 ||kdata1.com^
 ||lain.bgm.tv^
+||launchercontent.mojang.com^
 ||lib.arvancloud.com^
 ||libs.quillbot.com^
 ||link.storjshare.io^
@@ -741,6 +743,7 @@
 ||o.n1mp.org^
 ||objects.g0v.social^
 ||objects.hit.moe^
+||ocecdn.oraclecloud.com^
 ||ooo.0o0.ooo^
 ||ooo.o0o.ooo^
 ||openseauserdata.com^
@@ -919,6 +922,7 @@
 ||services.linkfire.com^
 ||share.riseup.net^
 ||shopify.cleverecommerce.com^
+||shots.codepen.io^
 ||showcase.abovemarket.com^
 ||sig.grumpybumpers.com^
 ||sigma9.zokhoi.com^
@@ -1327,6 +1331,7 @@
 ||cms-cdn.linear.app^
 ||cms.replit.com^
 ||codeberg.page^
+||codepenassets.com^
 ||combinatronics.io^
 ||coral.coralproject.net^
 ||cos.ap-bangkok.myqcloud.com^
@@ -1578,6 +1583,7 @@
 ||mypinata.cloud^
 ||myshopapps.com^
 ||nel.cloudflare.com^
+||nelreports.net^
 ||nest.land^
 ||net.anydesk.com^
 ||netdna-ssl.com^

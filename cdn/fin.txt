@@ -1,5 +1,5 @@
-# Main total line 2095
-# Last updated Sat 12/16/2023 22:06:31.17
+# Main total line 2101
+# Last updated Tue 12/19/2023 22:05:35.05
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -79,6 +79,7 @@ DOMAIN,assets.grammarly.com
 DOMAIN,assets.gumroad.com
 DOMAIN,assets.habr.com
 DOMAIN,assets.holopin.io
+DOMAIN,assets.humix.com
 DOMAIN,assets.ifttt.com
 DOMAIN,assets.ipstack.com
 DOMAIN,assets.jable.tv
@@ -657,6 +658,7 @@ DOMAIN,js.upload.io
 DOMAIN,js.userflow.com
 DOMAIN,kdata1.com
 DOMAIN,lain.bgm.tv
+DOMAIN,launchercontent.mojang.com
 DOMAIN,lib.arvancloud.com
 DOMAIN,libs.quillbot.com
 DOMAIN,link.storjshare.io
@@ -741,6 +743,7 @@ DOMAIN,nr.staticblitz.com
 DOMAIN,o.n1mp.org
 DOMAIN,objects.g0v.social
 DOMAIN,objects.hit.moe
+DOMAIN,ocecdn.oraclecloud.com
 DOMAIN,ooo.0o0.ooo
 DOMAIN,ooo.o0o.ooo
 DOMAIN,openseauserdata.com
@@ -919,6 +922,7 @@ DOMAIN,secure.telegraph.co.uk
 DOMAIN,services.linkfire.com
 DOMAIN,share.riseup.net
 DOMAIN,shopify.cleverecommerce.com
+DOMAIN,shots.codepen.io
 DOMAIN,showcase.abovemarket.com
 DOMAIN,sig.grumpybumpers.com
 DOMAIN,sigma9.zokhoi.com
@@ -1327,6 +1331,7 @@ DOMAIN-SUFFIX,cmail20.com
 DOMAIN-SUFFIX,cms-cdn.linear.app
 DOMAIN-SUFFIX,cms.replit.com
 DOMAIN-SUFFIX,codeberg.page
+DOMAIN-SUFFIX,codepenassets.com
 DOMAIN-SUFFIX,combinatronics.io
 DOMAIN-SUFFIX,coral.coralproject.net
 DOMAIN-SUFFIX,cos.ap-bangkok.myqcloud.com
@@ -1578,6 +1583,7 @@ DOMAIN-SUFFIX,myavlive.com
 DOMAIN-SUFFIX,mypinata.cloud
 DOMAIN-SUFFIX,myshopapps.com
 DOMAIN-SUFFIX,nel.cloudflare.com
+DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,nest.land
 DOMAIN-SUFFIX,net.anydesk.com
 DOMAIN-SUFFIX,netdna-ssl.com
