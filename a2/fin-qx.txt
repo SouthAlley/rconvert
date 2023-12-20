@@ -1,7 +1,6 @@
-# Quantumult total line 94552
-# Last updated Tue 12/19/2023 22:02:46.40
+# Quantumult total line 94548
+# Last updated Wed 12/20/2023  0:26:36.41
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
-DEST-PORT,7680,LIST
 HOST,00-gov.cn,LIST
 HOST,0024aadd.com,LIST
 HOST,0026645142c89aeb1.com,LIST
@@ -94550,6 +94549,3 @@ IP-CIDR,74.117.182.77/32,LIST,no-resolve
 IP-CIDR,77.162.125.199/32,LIST,no-resolve
 IP-CIDR,78.140.131.214/32,LIST,no-resolve
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,LIST,no-resolve
-USER-AGENT,AVOS*,LIST
-USER-AGENT,SogouInput,LIST
-USER-AGENT,com.sogou.sogouinput.BaseKeyboard,LIST

@@ -1,5 +1,5 @@
 # Adblock total line 3843
-# Last updated Tue 12/19/2023 22:05:51.98
+# Last updated Wed 12/20/2023  0:29:36.21
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||a.iqmtp.live^
 ||analytics.strava.com^

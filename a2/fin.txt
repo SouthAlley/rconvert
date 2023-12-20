@@ -1,7 +1,6 @@
-# Main total line 94560
-# Last updated Tue 12/19/2023 22:02:45.29
+# Main total line 94556
+# Last updated Wed 12/20/2023  0:26:35.27
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
-DEST-PORT,7680
 DOMAIN,00-gov.cn
 DOMAIN,0024aadd.com
 DOMAIN,0026645142c89aeb1.com
@@ -94558,6 +94557,3 @@ PROCESS-NAME,SOgouTaskManager
 PROCESS-NAME,SogouInput
 PROCESS-NAME,SogouServices
 PROCESS-NAME,TencentLemon
-USER-AGENT,AVOS*
-USER-AGENT,SogouInput
-USER-AGENT,com.sogou.sogouinput.BaseKeyboard
