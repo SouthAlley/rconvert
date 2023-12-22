@@ -1,5 +1,5 @@
-# Adblock total line 3677
-# Last updated Wed 12/20/2023  0:29:29.83
+# Adblock total line 3678
+# Last updated Fri 12/22/2023 22:07:13.26
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -1162,7 +1162,6 @@
 ||thumbs.onlyfans.com^
 ||thumbs44.redgifs.com^
 ||thumbsnap.com^
-||tile.openstreetmap.org^
 ||tiles.stadiamaps.com^
 ||ton.local.twitter.com^
 ||topbar-static.piano.io^
@@ -3285,6 +3284,8 @@
 ||tiktok.com^
 ||tiktokv.com^
 ||tildacdn.com^
+||tile.openstreetmap.org^
+||tile.osm.org^
 ||timestalks.com^
 ||tinypass.com^
 ||tinyupload.com^

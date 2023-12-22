@@ -1,5 +1,5 @@
-# Quantumult total line 4082
-# Last updated Wed 12/20/2023  0:29:36.08
+# Quantumult total line 4088
+# Last updated Fri 12/22/2023 22:07:19.80
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST
@@ -2721,7 +2721,13 @@ HOST-SUFFIX,qhimgs5.com,LIST
 HOST-SUFFIX,qhimgs6.com,LIST
 HOST-SUFFIX,qhmsg.com,LIST
 HOST-SUFFIX,qhres.com,LIST
+HOST-SUFFIX,qhres0.com,LIST
+HOST-SUFFIX,qhres1.com,LIST
 HOST-SUFFIX,qhres2.com,LIST
+HOST-SUFFIX,qhres3.com,LIST
+HOST-SUFFIX,qhres4.com,LIST
+HOST-SUFFIX,qhres5.com,LIST
+HOST-SUFFIX,qhres6.com,LIST
 HOST-SUFFIX,qhstatic.com,LIST
 HOST-SUFFIX,qhupdate.com,LIST
 HOST-SUFFIX,qiangbus.com,LIST

@@ -1,5 +1,5 @@
-# Clash total line 4628
-# Last updated Wed 12/20/2023  0:29:29.75
+# Clash total line 4629
+# Last updated Fri 12/22/2023 22:07:13.15
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -1163,7 +1163,6 @@ payload:
   - DOMAIN,thumbs.onlyfans.com
   - DOMAIN,thumbs44.redgifs.com
   - DOMAIN,thumbsnap.com
-  - DOMAIN,tile.openstreetmap.org
   - DOMAIN,tiles.stadiamaps.com
   - DOMAIN,ton.local.twitter.com
   - DOMAIN,topbar-static.piano.io
@@ -3286,6 +3285,8 @@ payload:
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tildacdn.com
+  - DOMAIN-SUFFIX,tile.openstreetmap.org
+  - DOMAIN-SUFFIX,tile.osm.org
   - DOMAIN-SUFFIX,timestalks.com
   - DOMAIN-SUFFIX,tinypass.com
   - DOMAIN-SUFFIX,tinyupload.com

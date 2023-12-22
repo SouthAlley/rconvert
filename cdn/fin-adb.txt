@@ -1,5 +1,5 @@
-# Adblock total line 2101
-# Last updated Wed 12/20/2023  0:29:21.41
+# Adblock total line 2103
+# Last updated Fri 12/22/2023 22:07:04.58
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -1029,6 +1029,7 @@
 ||static.licdn.com^
 ||static.linear.app^
 ||static.maxmind.com^
+||static.mediafire.com^
 ||static.meiguo.com^
 ||static.mendeley.com^
 ||static.missav.com^
@@ -1134,7 +1135,6 @@
 ||thumbs2.sendvid.com^
 ||thumbs44.redgifs.com^
 ||thumbsnap.com^
-||tile.openstreetmap.org^
 ||tiles.stadiamaps.com^
 ||ton.local.twitter.com^
 ||topbar-static.piano.io^
@@ -2017,6 +2017,8 @@
 ||teraboxcdn.com^
 ||thisiscdn.com^
 ||tildacdn.com^
+||tile.openstreetmap.org^
+||tile.osm.org^
 ||tiqcdn.com^
 ||tnastatic.com^
 ||trackerslist.com^

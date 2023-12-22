@@ -1,5 +1,5 @@
-# Adblock total line 3843
-# Last updated Wed 12/20/2023  0:29:36.21
+# Adblock total line 3849
+# Last updated Fri 12/22/2023 22:07:19.92
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||a.iqmtp.live^
 ||analytics.strava.com^
@@ -2721,7 +2721,13 @@
 ||qhimgs6.com^
 ||qhmsg.com^
 ||qhres.com^
+||qhres0.com^
+||qhres1.com^
 ||qhres2.com^
+||qhres3.com^
+||qhres4.com^
+||qhres5.com^
+||qhres6.com^
 ||qhstatic.com^
 ||qhupdate.com^
 ||qiangbus.com^

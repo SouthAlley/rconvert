@@ -1,5 +1,5 @@
-# Quantumult total line 4613
-# Last updated Wed 12/20/2023  0:29:29.70
+# Quantumult total line 4614
+# Last updated Fri 12/22/2023 22:07:13.11
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -1162,7 +1162,6 @@ HOST,thumbs.gfycat.com,LIST
 HOST,thumbs.onlyfans.com,LIST
 HOST,thumbs44.redgifs.com,LIST
 HOST,thumbsnap.com,LIST
-HOST,tile.openstreetmap.org,LIST
 HOST,tiles.stadiamaps.com,LIST
 HOST,ton.local.twitter.com,LIST
 HOST,topbar-static.piano.io,LIST
@@ -3285,6 +3284,8 @@ HOST-SUFFIX,tik-tokapi.com,LIST
 HOST-SUFFIX,tiktok.com,LIST
 HOST-SUFFIX,tiktokv.com,LIST
 HOST-SUFFIX,tildacdn.com,LIST
+HOST-SUFFIX,tile.openstreetmap.org,LIST
+HOST-SUFFIX,tile.osm.org,LIST
 HOST-SUFFIX,timestalks.com,LIST
 HOST-SUFFIX,tinypass.com,LIST
 HOST-SUFFIX,tinyupload.com,LIST

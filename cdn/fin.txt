@@ -1,5 +1,5 @@
-# Main total line 2101
-# Last updated Wed 12/20/2023  0:29:21.21
+# Main total line 2103
+# Last updated Fri 12/22/2023 22:07:04.36
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -1029,6 +1029,7 @@ DOMAIN,static.killedbygoogle.com
 DOMAIN,static.licdn.com
 DOMAIN,static.linear.app
 DOMAIN,static.maxmind.com
+DOMAIN,static.mediafire.com
 DOMAIN,static.meiguo.com
 DOMAIN,static.mendeley.com
 DOMAIN,static.missav.com
@@ -1134,7 +1135,6 @@ DOMAIN,thumbs.onlyfans.com
 DOMAIN,thumbs2.sendvid.com
 DOMAIN,thumbs44.redgifs.com
 DOMAIN,thumbsnap.com
-DOMAIN,tile.openstreetmap.org
 DOMAIN,tiles.stadiamaps.com
 DOMAIN,ton.local.twitter.com
 DOMAIN,topbar-static.piano.io
@@ -2017,6 +2017,8 @@ DOMAIN-SUFFIX,tedcdn.com
 DOMAIN-SUFFIX,teraboxcdn.com
 DOMAIN-SUFFIX,thisiscdn.com
 DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tile.openstreetmap.org
+DOMAIN-SUFFIX,tile.osm.org
 DOMAIN-SUFFIX,tiqcdn.com
 DOMAIN-SUFFIX,tnastatic.com
 DOMAIN-SUFFIX,trackerslist.com
