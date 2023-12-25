@@ -1,5 +1,5 @@
-# Adblock total line 2103
-# Last updated Fri 12/22/2023 22:07:04.58
+# Adblock total line 2114
+# Last updated Mon 12/25/2023 22:06:48.21
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -109,6 +109,7 @@
 ||assets.sendinblue.com^
 ||assets.squarespace.com^
 ||assets.static-upwork.com^
+||assets.stickpng.com^
 ||assets.swoogo.com^
 ||assets.the-independent.com^
 ||assets.time.com^
@@ -426,6 +427,7 @@
 ||d4.alternativeto.net^
 ||dam.freshworks.com^
 ||david-dm.org^
+||db.onlinewebfonts.com^
 ||ddcdn.comtucdncom.com^
 ||dearrow-thumb.ajay.app^
 ||demo.unified-streaming.com^
@@ -580,6 +582,7 @@
 ||images.macrumors.com^
 ||images.now-tv.com^
 ||images.opencollective.com^
+||images.pexels.com^
 ||images.plurk.com^
 ||images.prismic.io^
 ||images.ptt.cc^
@@ -775,6 +778,7 @@
 ||pic.7mmtv.me^
 ||pic.cangku.moe^
 ||pic.cdnclouder.com^
+||pic.onlinewebfonts.com^
 ||pic.skk.moe^
 ||piccdn.7mmtv.sx^
 ||pics.dmm.co.jp^
@@ -793,6 +797,7 @@
 ||player-frontend.cnevids.com^
 ||player.cnevids.com^
 ||player.h-cdn.com^
+||player.louisvuitton.com^
 ||player.vimeo.com^
 ||playwright.azureedge.net^
 ||plugins-artifacts.gradle.org^
@@ -1042,8 +1047,10 @@
 ||static.oklink.com^
 ||static.okx.com^
 ||static.olelive.com^
+||static.onlinewebfonts.com^
 ||static.onlyfans.com^
 ||static.opensea.io^
+||static.oracle.com^
 ||static.osdn.net^
 ||static.playstation.com^
 ||static.rakuten.com^
@@ -1169,6 +1176,7 @@
 ||userpic.redgifs.com^
 ||useruploads.visualwebsiteoptimizer.com^
 ||utteranc.es^
+||v.hillwaver.com^
 ||vanilla-extract.style^
 ||versionbadg.es^
 ||vetted.ai^
@@ -1181,6 +1189,7 @@
 ||videos.elephas.app^
 ||videos2-h.sendvid.com^
 ||vir.wsj.net^
+||viu-static.akamaized.net^
 ||vjs.zencdn.net^
 ||vscode-sync-insiders.trafficmanager.net^
 ||vscode-sync.trafficmanager.net^
@@ -1218,6 +1227,7 @@
 ||www.10086.win^
 ||www.bbthat.com^
 ||www.datocms-assets.com^
+||www.pngmart.com^
 ||www.typescriptlang.org^
 ||wwwimages2.adobe.com^
 ||yep.video.yahoo.com^
@@ -2033,6 +2043,7 @@
 ||ubuntu.com^
 ||ucarecdn.com^
 ||ungrounded.net^
+||unpkg.co^
 ||unpkg.com^
 ||uploads-ssl.webflow.com^
 ||userapi.com^

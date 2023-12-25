@@ -1,5 +1,5 @@
-# Quantumult total line 4614
-# Last updated Fri 12/22/2023 22:07:13.11
+# Quantumult total line 4624
+# Last updated Mon 12/25/2023 22:06:59.26
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -111,6 +111,7 @@ HOST,assets.scroll.com,LIST
 HOST,assets.sendinblue.com,LIST
 HOST,assets.squarespace.com,LIST
 HOST,assets.static-upwork.com,LIST
+HOST,assets.stickpng.com,LIST
 HOST,assets.swoogo.com,LIST
 HOST,assets.the-independent.com,LIST
 HOST,assets.time.com,LIST
@@ -424,6 +425,7 @@ HOST,dam.freshworks.com,LIST
 HOST,dashasiafox.akamaized.netflix,LIST
 HOST,david-dm.org,LIST
 HOST,daznfeeds.com.edgekey.net,LIST
+HOST,db.onlinewebfonts.com,LIST
 HOST,dca-lm-livedazn.secure.footprint.net,LIST
 HOST,ddcdn.comtucdncom.com,LIST
 HOST,dearrow-thumb.ajay.app,LIST
@@ -465,6 +467,7 @@ HOST,download.anydesk.com,LIST
 HOST,download.beeper.com,LIST
 HOST,download.gigabyte.com,LIST
 HOST,download.gimp.org,LIST
+HOST,download.iboysoft.com,LIST
 HOST,download.maxmind.com,LIST
 HOST,download.mlcc.google.com,LIST
 HOST,download.mozilla.org,LIST
@@ -624,6 +627,7 @@ HOST,images.g2crowd.com,LIST
 HOST,images.idgesg.net,LIST
 HOST,images.macrumors.com,LIST
 HOST,images.opencollective.com,LIST
+HOST,images.pexels.com,LIST
 HOST,images.plurk.com,LIST
 HOST,images.prismic.io,LIST
 HOST,images.ptt.cc,LIST
@@ -832,6 +836,7 @@ HOST,photos5.appleinsider.com,LIST
 HOST,pic.7mmtv.me,LIST
 HOST,pic.cangku.moe,LIST
 HOST,pic.cdnclouder.com,LIST
+HOST,pic.onlinewebfonts.com,LIST
 HOST,pic.skk.moe,LIST
 HOST,piccdn.7mmtv.sx,LIST
 HOST,pics.paypal.com,LIST
@@ -849,6 +854,7 @@ HOST,play.vidyard.com,LIST
 HOST,player-frontend.cnevids.com,LIST
 HOST,player.cnevids.com,LIST
 HOST,player.h-cdn.com,LIST
+HOST,player.louisvuitton.com,LIST
 HOST,playwright.azureedge.net,LIST
 HOST,plus.unsplash.com,LIST
 HOST,polyfill.bbhub.io,LIST
@@ -1083,6 +1089,7 @@ HOST,static.nicehash.com,LIST
 HOST,static.npmjs.com,LIST
 HOST,static.oklink.com,LIST
 HOST,static.okx.com,LIST
+HOST,static.onlinewebfonts.com,LIST
 HOST,static.onlyfans.com,LIST
 HOST,static.opensea.io,LIST
 HOST,static.osdn.net,LIST
@@ -1194,6 +1201,7 @@ HOST,userpic.redgifs.com,LIST
 HOST,useruploads.visualwebsiteoptimizer.com,LIST
 HOST,uts-api.itunes.apple.com,LIST
 HOST,utteranc.es,LIST
+HOST,v.hillwaver.com,LIST
 HOST,vanilla-extract.style,LIST
 HOST,versionbadg.es,LIST
 HOST,vetted.ai,LIST
@@ -1242,6 +1250,7 @@ HOST,www.10086.win,LIST
 HOST,www.bbthat.com,LIST
 HOST,www.datocms-assets.com,LIST
 HOST,www.googleapis.com,LIST
+HOST,www.pngmart.com,LIST
 HOST,www.typescriptlang.org,LIST
 HOST,wwwimages2.adobe.com,LIST
 HOST,ysa-static.passport.yandex.net,LIST
@@ -3347,6 +3356,7 @@ HOST-SUFFIX,ulozto.sk,LIST
 HOST-SUFFIX,ungrounded.net,LIST
 HOST-SUFFIX,universalkids.com,LIST
 HOST-SUFFIX,unlimitzone.com,LIST
+HOST-SUFFIX,unpkg.co,LIST
 HOST-SUFFIX,unpkg.com,LIST
 HOST-SUFFIX,up-4ever.com,LIST
 HOST-SUFFIX,up-4ever.org,LIST

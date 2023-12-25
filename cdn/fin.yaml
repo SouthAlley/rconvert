@@ -1,5 +1,5 @@
-# Clash total line 2103
-# Last updated Fri 12/22/2023 22:07:04.50
+# Clash total line 2114
+# Last updated Mon 12/25/2023 22:06:48.13
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -110,6 +110,7 @@ payload:
   - DOMAIN,assets.sendinblue.com
   - DOMAIN,assets.squarespace.com
   - DOMAIN,assets.static-upwork.com
+  - DOMAIN,assets.stickpng.com
   - DOMAIN,assets.swoogo.com
   - DOMAIN,assets.the-independent.com
   - DOMAIN,assets.time.com
@@ -427,6 +428,7 @@ payload:
   - DOMAIN,d4.alternativeto.net
   - DOMAIN,dam.freshworks.com
   - DOMAIN,david-dm.org
+  - DOMAIN,db.onlinewebfonts.com
   - DOMAIN,ddcdn.comtucdncom.com
   - DOMAIN,dearrow-thumb.ajay.app
   - DOMAIN,demo.unified-streaming.com
@@ -581,6 +583,7 @@ payload:
   - DOMAIN,images.macrumors.com
   - DOMAIN,images.now-tv.com
   - DOMAIN,images.opencollective.com
+  - DOMAIN,images.pexels.com
   - DOMAIN,images.plurk.com
   - DOMAIN,images.prismic.io
   - DOMAIN,images.ptt.cc
@@ -776,6 +779,7 @@ payload:
   - DOMAIN,pic.7mmtv.me
   - DOMAIN,pic.cangku.moe
   - DOMAIN,pic.cdnclouder.com
+  - DOMAIN,pic.onlinewebfonts.com
   - DOMAIN,pic.skk.moe
   - DOMAIN,piccdn.7mmtv.sx
   - DOMAIN,pics.dmm.co.jp
@@ -794,6 +798,7 @@ payload:
   - DOMAIN,player-frontend.cnevids.com
   - DOMAIN,player.cnevids.com
   - DOMAIN,player.h-cdn.com
+  - DOMAIN,player.louisvuitton.com
   - DOMAIN,player.vimeo.com
   - DOMAIN,playwright.azureedge.net
   - DOMAIN,plugins-artifacts.gradle.org
@@ -1043,8 +1048,10 @@ payload:
   - DOMAIN,static.oklink.com
   - DOMAIN,static.okx.com
   - DOMAIN,static.olelive.com
+  - DOMAIN,static.onlinewebfonts.com
   - DOMAIN,static.onlyfans.com
   - DOMAIN,static.opensea.io
+  - DOMAIN,static.oracle.com
   - DOMAIN,static.osdn.net
   - DOMAIN,static.playstation.com
   - DOMAIN,static.rakuten.com
@@ -1170,6 +1177,7 @@ payload:
   - DOMAIN,userpic.redgifs.com
   - DOMAIN,useruploads.visualwebsiteoptimizer.com
   - DOMAIN,utteranc.es
+  - DOMAIN,v.hillwaver.com
   - DOMAIN,vanilla-extract.style
   - DOMAIN,versionbadg.es
   - DOMAIN,vetted.ai
@@ -1182,6 +1190,7 @@ payload:
   - DOMAIN,videos.elephas.app
   - DOMAIN,videos2-h.sendvid.com
   - DOMAIN,vir.wsj.net
+  - DOMAIN,viu-static.akamaized.net
   - DOMAIN,vjs.zencdn.net
   - DOMAIN,vscode-sync-insiders.trafficmanager.net
   - DOMAIN,vscode-sync.trafficmanager.net
@@ -1219,6 +1228,7 @@ payload:
   - DOMAIN,www.10086.win
   - DOMAIN,www.bbthat.com
   - DOMAIN,www.datocms-assets.com
+  - DOMAIN,www.pngmart.com
   - DOMAIN,www.typescriptlang.org
   - DOMAIN,wwwimages2.adobe.com
   - DOMAIN,yep.video.yahoo.com
@@ -2034,6 +2044,7 @@ payload:
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,ucarecdn.com
   - DOMAIN-SUFFIX,ungrounded.net
+  - DOMAIN-SUFFIX,unpkg.co
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,uploads-ssl.webflow.com
   - DOMAIN-SUFFIX,userapi.com

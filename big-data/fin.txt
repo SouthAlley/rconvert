@@ -1,5 +1,5 @@
-# Main total line 4629
-# Last updated Fri 12/22/2023 22:07:12.95
+# Main total line 4639
+# Last updated Mon 12/25/2023 22:06:59.12
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -111,6 +111,7 @@ DOMAIN,assets.scroll.com
 DOMAIN,assets.sendinblue.com
 DOMAIN,assets.squarespace.com
 DOMAIN,assets.static-upwork.com
+DOMAIN,assets.stickpng.com
 DOMAIN,assets.swoogo.com
 DOMAIN,assets.the-independent.com
 DOMAIN,assets.time.com
@@ -424,6 +425,7 @@ DOMAIN,dam.freshworks.com
 DOMAIN,dashasiafox.akamaized.netflix
 DOMAIN,david-dm.org
 DOMAIN,daznfeeds.com.edgekey.net
+DOMAIN,db.onlinewebfonts.com
 DOMAIN,dca-lm-livedazn.secure.footprint.net
 DOMAIN,ddcdn.comtucdncom.com
 DOMAIN,dearrow-thumb.ajay.app
@@ -465,6 +467,7 @@ DOMAIN,download.anydesk.com
 DOMAIN,download.beeper.com
 DOMAIN,download.gigabyte.com
 DOMAIN,download.gimp.org
+DOMAIN,download.iboysoft.com
 DOMAIN,download.maxmind.com
 DOMAIN,download.mlcc.google.com
 DOMAIN,download.mozilla.org
@@ -624,6 +627,7 @@ DOMAIN,images.g2crowd.com
 DOMAIN,images.idgesg.net
 DOMAIN,images.macrumors.com
 DOMAIN,images.opencollective.com
+DOMAIN,images.pexels.com
 DOMAIN,images.plurk.com
 DOMAIN,images.prismic.io
 DOMAIN,images.ptt.cc
@@ -832,6 +836,7 @@ DOMAIN,photos5.appleinsider.com
 DOMAIN,pic.7mmtv.me
 DOMAIN,pic.cangku.moe
 DOMAIN,pic.cdnclouder.com
+DOMAIN,pic.onlinewebfonts.com
 DOMAIN,pic.skk.moe
 DOMAIN,piccdn.7mmtv.sx
 DOMAIN,pics.paypal.com
@@ -849,6 +854,7 @@ DOMAIN,play.vidyard.com
 DOMAIN,player-frontend.cnevids.com
 DOMAIN,player.cnevids.com
 DOMAIN,player.h-cdn.com
+DOMAIN,player.louisvuitton.com
 DOMAIN,playwright.azureedge.net
 DOMAIN,plus.unsplash.com
 DOMAIN,polyfill.bbhub.io
@@ -1083,6 +1089,7 @@ DOMAIN,static.nicehash.com
 DOMAIN,static.npmjs.com
 DOMAIN,static.oklink.com
 DOMAIN,static.okx.com
+DOMAIN,static.onlinewebfonts.com
 DOMAIN,static.onlyfans.com
 DOMAIN,static.opensea.io
 DOMAIN,static.osdn.net
@@ -1194,6 +1201,7 @@ DOMAIN,userpic.redgifs.com
 DOMAIN,useruploads.visualwebsiteoptimizer.com
 DOMAIN,uts-api.itunes.apple.com
 DOMAIN,utteranc.es
+DOMAIN,v.hillwaver.com
 DOMAIN,vanilla-extract.style
 DOMAIN,versionbadg.es
 DOMAIN,vetted.ai
@@ -1242,6 +1250,7 @@ DOMAIN,www.10086.win
 DOMAIN,www.bbthat.com
 DOMAIN,www.datocms-assets.com
 DOMAIN,www.googleapis.com
+DOMAIN,www.pngmart.com
 DOMAIN,www.typescriptlang.org
 DOMAIN,wwwimages2.adobe.com
 DOMAIN,ysa-static.passport.yandex.net
@@ -3347,6 +3356,7 @@ DOMAIN-SUFFIX,ulozto.sk
 DOMAIN-SUFFIX,ungrounded.net
 DOMAIN-SUFFIX,universalkids.com
 DOMAIN-SUFFIX,unlimitzone.com
+DOMAIN-SUFFIX,unpkg.co
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,up-4ever.com
 DOMAIN-SUFFIX,up-4ever.org

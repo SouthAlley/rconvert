@@ -1,5 +1,5 @@
-# Quantumult total line 2103
-# Last updated Fri 12/22/2023 22:07:04.47
+# Quantumult total line 2114
+# Last updated Mon 12/25/2023 22:06:48.10
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -109,6 +109,7 @@ HOST,assets.scroll.com,LIST
 HOST,assets.sendinblue.com,LIST
 HOST,assets.squarespace.com,LIST
 HOST,assets.static-upwork.com,LIST
+HOST,assets.stickpng.com,LIST
 HOST,assets.swoogo.com,LIST
 HOST,assets.the-independent.com,LIST
 HOST,assets.time.com,LIST
@@ -426,6 +427,7 @@ HOST,curl.se,LIST
 HOST,d4.alternativeto.net,LIST
 HOST,dam.freshworks.com,LIST
 HOST,david-dm.org,LIST
+HOST,db.onlinewebfonts.com,LIST
 HOST,ddcdn.comtucdncom.com,LIST
 HOST,dearrow-thumb.ajay.app,LIST
 HOST,demo.unified-streaming.com,LIST
@@ -580,6 +582,7 @@ HOST,images.idgesg.net,LIST
 HOST,images.macrumors.com,LIST
 HOST,images.now-tv.com,LIST
 HOST,images.opencollective.com,LIST
+HOST,images.pexels.com,LIST
 HOST,images.plurk.com,LIST
 HOST,images.prismic.io,LIST
 HOST,images.ptt.cc,LIST
@@ -775,6 +778,7 @@ HOST,photos5.appleinsider.com,LIST
 HOST,pic.7mmtv.me,LIST
 HOST,pic.cangku.moe,LIST
 HOST,pic.cdnclouder.com,LIST
+HOST,pic.onlinewebfonts.com,LIST
 HOST,pic.skk.moe,LIST
 HOST,piccdn.7mmtv.sx,LIST
 HOST,pics.dmm.co.jp,LIST
@@ -793,6 +797,7 @@ HOST,play.vidyard.com,LIST
 HOST,player-frontend.cnevids.com,LIST
 HOST,player.cnevids.com,LIST
 HOST,player.h-cdn.com,LIST
+HOST,player.louisvuitton.com,LIST
 HOST,player.vimeo.com,LIST
 HOST,playwright.azureedge.net,LIST
 HOST,plugins-artifacts.gradle.org,LIST
@@ -1042,8 +1047,10 @@ HOST,static.npmjs.com,LIST
 HOST,static.oklink.com,LIST
 HOST,static.okx.com,LIST
 HOST,static.olelive.com,LIST
+HOST,static.onlinewebfonts.com,LIST
 HOST,static.onlyfans.com,LIST
 HOST,static.opensea.io,LIST
+HOST,static.oracle.com,LIST
 HOST,static.osdn.net,LIST
 HOST,static.playstation.com,LIST
 HOST,static.rakuten.com,LIST
@@ -1169,6 +1176,7 @@ HOST,userimg.customeriomail.com,LIST
 HOST,userpic.redgifs.com,LIST
 HOST,useruploads.visualwebsiteoptimizer.com,LIST
 HOST,utteranc.es,LIST
+HOST,v.hillwaver.com,LIST
 HOST,vanilla-extract.style,LIST
 HOST,versionbadg.es,LIST
 HOST,vetted.ai,LIST
@@ -1181,6 +1189,7 @@ HOST,video2.7mmtv.sx,LIST
 HOST,videos.elephas.app,LIST
 HOST,videos2-h.sendvid.com,LIST
 HOST,vir.wsj.net,LIST
+HOST,viu-static.akamaized.net,LIST
 HOST,vjs.zencdn.net,LIST
 HOST,vscode-sync-insiders.trafficmanager.net,LIST
 HOST,vscode-sync.trafficmanager.net,LIST
@@ -1218,6 +1227,7 @@ HOST,www-static.ripe.net,LIST
 HOST,www.10086.win,LIST
 HOST,www.bbthat.com,LIST
 HOST,www.datocms-assets.com,LIST
+HOST,www.pngmart.com,LIST
 HOST,www.typescriptlang.org,LIST
 HOST,wwwimages2.adobe.com,LIST
 HOST,yep.video.yahoo.com,LIST
@@ -2033,6 +2043,7 @@ HOST-SUFFIX,uber-assets.com,LIST
 HOST-SUFFIX,ubuntu.com,LIST
 HOST-SUFFIX,ucarecdn.com,LIST
 HOST-SUFFIX,ungrounded.net,LIST
+HOST-SUFFIX,unpkg.co,LIST
 HOST-SUFFIX,unpkg.com,LIST
 HOST-SUFFIX,uploads-ssl.webflow.com,LIST
 HOST-SUFFIX,userapi.com,LIST

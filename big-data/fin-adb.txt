@@ -1,5 +1,5 @@
-# Adblock total line 3678
-# Last updated Fri 12/22/2023 22:07:13.26
+# Adblock total line 3688
+# Last updated Mon 12/25/2023 22:06:59.40
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -111,6 +111,7 @@
 ||assets.sendinblue.com^
 ||assets.squarespace.com^
 ||assets.static-upwork.com^
+||assets.stickpng.com^
 ||assets.swoogo.com^
 ||assets.the-independent.com^
 ||assets.time.com^
@@ -424,6 +425,7 @@
 ||dashasiafox.akamaized.netflix^
 ||david-dm.org^
 ||daznfeeds.com.edgekey.net^
+||db.onlinewebfonts.com^
 ||dca-lm-livedazn.secure.footprint.net^
 ||ddcdn.comtucdncom.com^
 ||dearrow-thumb.ajay.app^
@@ -465,6 +467,7 @@
 ||download.beeper.com^
 ||download.gigabyte.com^
 ||download.gimp.org^
+||download.iboysoft.com^
 ||download.maxmind.com^
 ||download.mlcc.google.com^
 ||download.mozilla.org^
@@ -624,6 +627,7 @@
 ||images.idgesg.net^
 ||images.macrumors.com^
 ||images.opencollective.com^
+||images.pexels.com^
 ||images.plurk.com^
 ||images.prismic.io^
 ||images.ptt.cc^
@@ -832,6 +836,7 @@
 ||pic.7mmtv.me^
 ||pic.cangku.moe^
 ||pic.cdnclouder.com^
+||pic.onlinewebfonts.com^
 ||pic.skk.moe^
 ||piccdn.7mmtv.sx^
 ||pics.paypal.com^
@@ -849,6 +854,7 @@
 ||player-frontend.cnevids.com^
 ||player.cnevids.com^
 ||player.h-cdn.com^
+||player.louisvuitton.com^
 ||playwright.azureedge.net^
 ||plus.unsplash.com^
 ||polyfill.bbhub.io^
@@ -1083,6 +1089,7 @@
 ||static.npmjs.com^
 ||static.oklink.com^
 ||static.okx.com^
+||static.onlinewebfonts.com^
 ||static.onlyfans.com^
 ||static.opensea.io^
 ||static.osdn.net^
@@ -1194,6 +1201,7 @@
 ||useruploads.visualwebsiteoptimizer.com^
 ||uts-api.itunes.apple.com^
 ||utteranc.es^
+||v.hillwaver.com^
 ||vanilla-extract.style^
 ||versionbadg.es^
 ||vetted.ai^
@@ -1242,6 +1250,7 @@
 ||www.bbthat.com^
 ||www.datocms-assets.com^
 ||www.googleapis.com^
+||www.pngmart.com^
 ||www.typescriptlang.org^
 ||wwwimages2.adobe.com^
 ||ysa-static.passport.yandex.net^
@@ -3347,6 +3356,7 @@
 ||ungrounded.net^
 ||universalkids.com^
 ||unlimitzone.com^
+||unpkg.co^
 ||unpkg.com^
 ||up-4ever.com^
 ||up-4ever.org^
