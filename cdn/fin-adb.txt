@@ -1,5 +1,5 @@
-# Adblock total line 2114
-# Last updated Mon 12/25/2023 22:06:48.21
+# Adblock total line 2134
+# Last updated Thu 12/28/2023 22:15:59.21
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -11,6 +11,7 @@
 ||aff.equalweb.com^
 ||ajax.cat.net^
 ||ajax.cdnjs.com^
+||ajax.cloudflare.com^
 ||ajax.googleapis.com^
 ||ajax.microsoft.com^
 ||akidoo.top^
@@ -73,6 +74,7 @@
 ||assets.convertkit.com^
 ||assets.dnsfilter.com^
 ||assets.extension.grammarly.com^
+||assets.fastly.com^
 ||assets.flodesk.com^
 ||assets.getkirby.com^
 ||assets.grammarly.com^
@@ -144,6 +146,7 @@
 ||avatar.freepik.com^
 ||avatar.stefanjudis.com^
 ||avatars.dicebear.com^
+||avatars.dzeninfra.ru^
 ||avatars.hubspot.net^
 ||avatars.mds.yandex.net^
 ||avatars.micro.blog^
@@ -244,6 +247,7 @@
 ||cdn.download.it^
 ||cdn.dribbble.com^
 ||cdn.dynamicyield.com^
+||cdn.embed.ly^
 ||cdn.equalweb.com^
 ||cdn.faire.com^
 ||cdn.faveohelpdesk.com^
@@ -285,6 +289,8 @@
 ||cdn.manageengine.com^
 ||cdn.maptiler.com^
 ||cdn.masto.host^
+||cdn.mathjax.org^
+||cdn.matterhorn.app^
 ||cdn.mcauto-images-production.sendgrid.net^
 ||cdn.mcr.ea.com^
 ||cdn.micro.blog^
@@ -485,6 +491,7 @@
 ||files.mastodon.online^
 ||files.mastodon.social^
 ||files.readme.io^
+||files.reg.ru^
 ||files.slack.com^
 ||files.writefreely.org^
 ||files.yande.re^
@@ -532,6 +539,7 @@
 ||i.guim.co.uk^
 ||i.hamreus.com^
 ||i.ibb.co^
+||i.imgflip.com^
 ||i.imgur.com^
 ||i.iwara.tv^
 ||i.jpg.dog^
@@ -619,6 +627,7 @@
 ||img.merch.cameo.com^
 ||img.pawoo.net^
 ||img.perfops.net^
+||img.reg.ru^
 ||img.represent.com^
 ||img.riskified.com^
 ||img.skk.moe^
@@ -642,6 +651,7 @@
 ||info.knak.com^
 ||interactive.guim.co.uk^
 ||ipfs.d.tube^
+||iterm2.com^
 ||j.udn.com.tw^
 ||js-cdn.blockchair.io^
 ||js.braintreegateway.com^
@@ -671,6 +681,7 @@
 ||logo.clearbit.com^
 ||logos.speedtestcustom.com^
 ||loutre.blockchair.io^
+||lumiere-a.akamaihd.net^
 ||m-cdn.phonearena.com^
 ||m.wsj.net^
 ||maps.geoapify.com^
@@ -888,6 +899,7 @@
 ||s3.arkjp.net^
 ||s3.c.im^
 ||s3.coinmarketcap.com^
+||s3.dzeninfra.ru^
 ||s3.envato.com^
 ||s3.eu-central-003.backblazeb2.com^
 ||s3.eu-central-2.wasabisys.com^
@@ -971,6 +983,7 @@
 ||static-cdn.spot.im^
 ||static-clst.avgle.com^
 ||static-dm.ubisoft.com^
+||static-effect.reg.ru^
 ||static-exp1.licdn.com^
 ||static-exp2.licdn.com^
 ||static-exp3.licdn.com^
@@ -1008,6 +1021,7 @@
 ||static.deepl.com^
 ||static.dw.com^
 ||static.dynamicyield.com^
+||static.dzeninfra.ru^
 ||static.euronews.com^
 ||static.fasthosts.co.uk^
 ||static.figma.com^
@@ -1031,6 +1045,7 @@
 ||static.itch.io^
 ||static.javcdn.info^
 ||static.killedbygoogle.com^
+||static.klaviyo.com^
 ||static.licdn.com^
 ||static.linear.app^
 ||static.maxmind.com^
@@ -1040,6 +1055,7 @@
 ||static.missav.com^
 ||static.mocortech.com^
 ||static.mysph.sph.com.sg^
+||static.namebeta.com^
 ||static.news.bitcoin.com^
 ||static.nhentai.net^
 ||static.nicehash.com^
@@ -1121,6 +1137,7 @@
 ||store-images.microsoft.com^
 ||store-images.s-microsoft.com^
 ||stories.freepiklabs.com^
+||stubdownloader.services.mozilla.com^
 ||t.betterstack.com^
 ||t.nhentai.net^
 ||t1.picb.cc^
@@ -1393,6 +1410,7 @@
 ||eroimg.net^
 ||esm.run^
 ||esm.sh^
+||espncdn.com^
 ||exp-tas.com^
 ||f-droid.org^
 ||f.hubspotfree.net^
@@ -1467,6 +1485,7 @@
 ||iframe.ly^
 ||iggcdn.com^
 ||ignimgs.com^
+||iili.io^
 ||ik.imagekit.io^
 ||imagebam.com^
 ||imagedelivery.net^
@@ -1666,6 +1685,7 @@
 ||prcdn.co^
 ||pressablecdn.com^
 ||prod.public.atl-paas.net^
+||proxy.ustclug.org^
 ||pstatic.net^
 ||pstorage.space^
 ||public.cdn.office.net^
