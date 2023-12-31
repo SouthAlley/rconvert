@@ -1,5 +1,5 @@
-# Clash total line 2134
-# Last updated Thu 12/28/2023 22:15:59.14
+# Clash total line 2135
+# Last updated Sun 12/31/2023 22:15:51.01
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -1668,6 +1668,7 @@ payload:
   - DOMAIN-SUFFIX,photobucket.com
   - DOMAIN-SUFFIX,pimg.tw
   - DOMAIN-SUFFIX,pinimg.com
+  - DOMAIN-SUFFIX,pixelcdn.net
   - DOMAIN-SUFFIX,pixfs.net
   - DOMAIN-SUFFIX,pixhost.to
   - DOMAIN-SUFFIX,piximg.net

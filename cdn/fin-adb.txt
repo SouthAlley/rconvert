@@ -1,5 +1,5 @@
-# Adblock total line 2134
-# Last updated Thu 12/28/2023 22:15:59.21
+# Adblock total line 2135
+# Last updated Sun 12/31/2023 22:15:51.11
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -1667,6 +1667,7 @@
 ||photobucket.com^
 ||pimg.tw^
 ||pinimg.com^
+||pixelcdn.net^
 ||pixfs.net^
 ||pixhost.to^
 ||piximg.net^

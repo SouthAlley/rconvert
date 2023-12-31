@@ -1,5 +1,5 @@
-# Adblock total line 3706
-# Last updated Thu 12/28/2023 22:16:08.25
+# Adblock total line 3707
+# Last updated Sun 12/31/2023 22:16:01.73
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -2949,6 +2949,7 @@
 ||pinata.cloud^
 ||pinimg.com^
 ||piston-data.mojang.com^
+||pixelcdn.net^
 ||pixeldrain.com^
 ||pixfs.net^
 ||pixhost.to^

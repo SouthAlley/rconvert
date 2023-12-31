@@ -1,5 +1,5 @@
-# Quantumult total line 4642
-# Last updated Thu 12/28/2023 22:16:08.13
+# Quantumult total line 4643
+# Last updated Sun 12/31/2023 22:16:01.59
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -2949,6 +2949,7 @@ HOST-SUFFIX,pimg.tw,LIST
 HOST-SUFFIX,pinata.cloud,LIST
 HOST-SUFFIX,pinimg.com,LIST
 HOST-SUFFIX,piston-data.mojang.com,LIST
+HOST-SUFFIX,pixelcdn.net,LIST
 HOST-SUFFIX,pixeldrain.com,LIST
 HOST-SUFFIX,pixfs.net,LIST
 HOST-SUFFIX,pixhost.to,LIST

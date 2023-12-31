@@ -1,5 +1,5 @@
-# Clash total line 4657
-# Last updated Thu 12/28/2023 22:16:08.16
+# Clash total line 4658
+# Last updated Sun 12/31/2023 22:16:01.64
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -2950,6 +2950,7 @@ payload:
   - DOMAIN-SUFFIX,pinata.cloud
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,piston-data.mojang.com
+  - DOMAIN-SUFFIX,pixelcdn.net
   - DOMAIN-SUFFIX,pixeldrain.com
   - DOMAIN-SUFFIX,pixfs.net
   - DOMAIN-SUFFIX,pixhost.to
