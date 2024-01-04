@@ -1,5 +1,5 @@
-# Main total line 4658
-# Last updated Mon 01/01/2024 22:17:09.19
+# Main total line 4673
+# Last updated Thu 01/04/2024 22:17:34.82
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -163,6 +163,7 @@ DOMAIN,badges.frapsoft.com
 DOMAIN,badges.gitter.im
 DOMAIN,badges.greenkeeper.io
 DOMAIN,binaries.prisma.sh
+DOMAIN,binary-factory.kde.org
 DOMAIN,blacklist.tampermonkey.net
 DOMAIN,boards.greenhouse.io
 DOMAIN,boot.netboot.xyz
@@ -273,6 +274,7 @@ DOMAIN,cdn.headwayapp.co
 DOMAIN,cdn.hellofresh.com
 DOMAIN,cdn.hentaibomb.com
 DOMAIN,cdn.heysavvy.com
+DOMAIN,cdn.hyperbeam.com
 DOMAIN,cdn.imageengine.io
 DOMAIN,cdn.img.ly
 DOMAIN,cdn.ip2location.io
@@ -495,6 +497,8 @@ DOMAIN,dynamic-assets.mobilius.top
 DOMAIN,e3.365dm.com
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN,ec-prod.scene7.com
+DOMAIN,edge-consumer-static.azureedge.net
+DOMAIN,edge-mobile-static.azureedge.net
 DOMAIN,edge.cwtv-vod-ext.top.comcast.net
 DOMAIN,edge.personalizer.io
 DOMAIN,edgedl.me.gvt4.com
@@ -693,6 +697,7 @@ DOMAIN,info.cloudflare.com
 DOMAIN,info.knak.com
 DOMAIN,install.virtfusion.net
 DOMAIN,interactive.guim.co.uk
+DOMAIN,invent.kde.org
 DOMAIN,ipfs.d.tube
 DOMAIN,iterm2.com
 DOMAIN,j.udn.com.tw
@@ -866,6 +871,7 @@ DOMAIN,player.cnevids.com
 DOMAIN,player.h-cdn.com
 DOMAIN,player.louisvuitton.com
 DOMAIN,playwright.azureedge.net
+DOMAIN,plugins.dprint.dev
 DOMAIN,plus.unsplash.com
 DOMAIN,polyfill.bbhub.io
 DOMAIN,polyfill.mailchimp.com
@@ -1190,6 +1196,7 @@ DOMAIN,ton.local.twitter.com
 DOMAIN,topbar-static.piano.io
 DOMAIN,tracker.cdnbye.com
 DOMAIN,typescript.azureedge.net
+DOMAIN,typescript.visualstudio.com
 DOMAIN,ubistatic-a.ubisoft.com
 DOMAIN,ubistatic2-a.ubisoft.com
 DOMAIN,ui.trailhead.com
@@ -1269,6 +1276,7 @@ DOMAIN,www.googleapis.com
 DOMAIN,www.pngmart.com
 DOMAIN,www.typescriptlang.org
 DOMAIN,wwwimages2.adobe.com
+DOMAIN,xpaywalletcdn.azureedge.net
 DOMAIN,ysa-static.passport.yandex.net
 DOMAIN,yummlystatic.com
 DOMAIN-SUFFIX,10musume.com
@@ -1647,6 +1655,7 @@ DOMAIN-SUFFIX,comicporn.xxx
 DOMAIN-SUFFIX,connatix.com
 DOMAIN-SUFFIX,containersonaws.com
 DOMAIN-SUFFIX,content.jwplatform.com
+DOMAIN-SUFFIX,content001.bet365.com
 DOMAIN-SUFFIX,control.kochava.com
 DOMAIN-SUFFIX,convertio.co
 DOMAIN-SUFFIX,convertio.me
@@ -1983,10 +1992,12 @@ DOMAIN-SUFFIX,file-up.org
 DOMAIN-SUFFIX,file-upload.com
 DOMAIN-SUFFIX,file-upload.net
 DOMAIN-SUFFIX,file.al
+DOMAIN-SUFFIX,file.io
 DOMAIN-SUFFIX,file.karelia.ru
 DOMAIN-SUFFIX,file.town
 DOMAIN-SUFFIX,file4safe.com
 DOMAIN-SUFFIX,filebin.ca
+DOMAIN-SUFFIX,filebin.net
 DOMAIN-SUFFIX,fileblade.com
 DOMAIN-SUFFIX,fileboom.me
 DOMAIN-SUFFIX,filecad.com
@@ -2437,6 +2448,7 @@ DOMAIN-SUFFIX,iili.io
 DOMAIN-SUFFIX,ik.imagekit.io
 DOMAIN-SUFFIX,ilovepdf.com
 DOMAIN-SUFFIX,imagebam.com
+DOMAIN-SUFFIX,imageban.ru
 DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,images-iherb.com
@@ -3192,6 +3204,7 @@ DOMAIN-SUFFIX,soundcloud.app.goo.gl
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,soundcloudmail.com
 DOMAIN-SUFFIX,sourceforge.com
+DOMAIN-SUFFIX,sourceforge.io
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,spaindisney.com
 DOMAIN-SUFFIX,speed-down.org
@@ -3284,6 +3297,7 @@ DOMAIN-SUFFIX,teenchoice.com
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram-cdn.org
 DOMAIN-SUFFIX,telemundo.com
+DOMAIN-SUFFIX,temp.sh
 DOMAIN-SUFFIX,tenvoi.com
 DOMAIN-SUFFIX,teraboxcdn.com
 DOMAIN-SUFFIX,testonfox.com
@@ -3324,6 +3338,7 @@ DOMAIN-SUFFIX,tlaun.ch
 DOMAIN-SUFFIX,tlauncherrepo.com
 DOMAIN-SUFFIX,tln4.ru
 DOMAIN-SUFFIX,tmp.link
+DOMAIN-SUFFIX,tmpfiles.org
 DOMAIN-SUFFIX,tnastatic.com
 DOMAIN-SUFFIX,top4top.net
 DOMAIN-SUFFIX,trackerslist.com

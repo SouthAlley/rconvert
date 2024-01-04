@@ -1,5 +1,5 @@
-# Main total line 2135
-# Last updated Mon 01/01/2024 22:17:00.65
+# Main total line 2147
+# Last updated Thu 01/04/2024 22:17:25.12
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 DOMAIN,0x0.st
 DOMAIN,9191.ga
@@ -457,6 +457,8 @@ DOMAIN,e3.365dm.com
 DOMAIN,eaassets-a.akamaihd.net
 DOMAIN,easylist-downloads.adblockplus.org
 DOMAIN,ec-prod.scene7.com
+DOMAIN,edge-consumer-static.azureedge.net
+DOMAIN,edge-mobile-static.azureedge.net
 DOMAIN,edge.personalizer.io
 DOMAIN,eep.io
 DOMAIN,embed-ssl.wistia.com
@@ -812,6 +814,7 @@ DOMAIN,player.louisvuitton.com
 DOMAIN,player.vimeo.com
 DOMAIN,playwright.azureedge.net
 DOMAIN,plugins-artifacts.gradle.org
+DOMAIN,plugins.dprint.dev
 DOMAIN,plus.unsplash.com
 DOMAIN,polyfill.bbhub.io
 DOMAIN,polyfill.mailchimp.com
@@ -1167,6 +1170,7 @@ DOMAIN,tvdownloaddw-a.akamaihd.net
 DOMAIN,twemoji.maxcdn.com
 DOMAIN,typeface.nyt.com
 DOMAIN,typescript.azureedge.net
+DOMAIN,typescript.visualstudio.com
 DOMAIN,ubistatic-a.ubisoft.com
 DOMAIN,ubistatic2-a.akamaihd.net
 DOMAIN,ubistatic2-a.ubisoft.com
@@ -1247,6 +1251,7 @@ DOMAIN,www.datocms-assets.com
 DOMAIN,www.pngmart.com
 DOMAIN,www.typescriptlang.org
 DOMAIN,wwwimages2.adobe.com
+DOMAIN,xpaywalletcdn.azureedge.net
 DOMAIN,yep.video.yahoo.com
 DOMAIN,ysa-static.passport.yandex.net
 DOMAIN,yummlystatic.com
@@ -1360,6 +1365,7 @@ DOMAIN-SUFFIX,cms.replit.com
 DOMAIN-SUFFIX,codeberg.page
 DOMAIN-SUFFIX,codepenassets.com
 DOMAIN-SUFFIX,combinatronics.io
+DOMAIN-SUFFIX,content001.bet365.com
 DOMAIN-SUFFIX,coral.coralproject.net
 DOMAIN-SUFFIX,cos.ap-bangkok.myqcloud.com
 DOMAIN-SUFFIX,cos.ap-hongkong.myqcloud.com
@@ -1420,6 +1426,8 @@ DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,file.core.windows.net
+DOMAIN-SUFFIX,file.io
+DOMAIN-SUFFIX,filebin.net
 DOMAIN-SUFFIX,files.gitbook.io
 DOMAIN-SUFFIX,files.wordpress.com
 DOMAIN-SUFFIX,firebaseapp.com
@@ -1488,6 +1496,7 @@ DOMAIN-SUFFIX,ignimgs.com
 DOMAIN-SUFFIX,iili.io
 DOMAIN-SUFFIX,ik.imagekit.io
 DOMAIN-SUFFIX,imagebam.com
+DOMAIN-SUFFIX,imageban.ru
 DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,images-iherb.com
 DOMAIN-SUFFIX,images.androeed.ru
@@ -2016,6 +2025,7 @@ DOMAIN-SUFFIX,smassets.net
 DOMAIN-SUFFIX,smilecdn.co
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,software-download.microsoft.com
+DOMAIN-SUFFIX,sourceforge.io
 DOMAIN-SUFFIX,sqspcdn.com
 DOMAIN-SUFFIX,squarespace-cdn.com
 DOMAIN-SUFFIX,ss-cdn.com
@@ -2045,12 +2055,14 @@ DOMAIN-SUFFIX,swiftypecdn.com
 DOMAIN-SUFFIX,t.staticblitz.com
 DOMAIN-SUFFIX,tapecontent.net
 DOMAIN-SUFFIX,tedcdn.com
+DOMAIN-SUFFIX,temp.sh
 DOMAIN-SUFFIX,teraboxcdn.com
 DOMAIN-SUFFIX,thisiscdn.com
 DOMAIN-SUFFIX,tildacdn.com
 DOMAIN-SUFFIX,tile.openstreetmap.org
 DOMAIN-SUFFIX,tile.osm.org
 DOMAIN-SUFFIX,tiqcdn.com
+DOMAIN-SUFFIX,tmpfiles.org
 DOMAIN-SUFFIX,tnastatic.com
 DOMAIN-SUFFIX,trackerslist.com
 DOMAIN-SUFFIX,transcend-cdn.com

@@ -1,5 +1,5 @@
-# Adblock total line 3849
-# Last updated Mon 01/01/2024 22:17:16.29
+# Adblock total line 3857
+# Last updated Thu 01/04/2024 22:17:42.46
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||a.iqmtp.live^
 ||analytics.strava.com^
@@ -9,8 +9,6 @@
 ||client.amplifi.com^
 ||cn.download.nvidia.com^
 ||dl.google.com^
-||dl.steam.clngaa.com^
-||dl.steam.ksyna.com^
 ||download.jetbrains.com^
 ||gs-loc-cn.apple.com^
 ||images-cn.ssl-images-amazon.com^
@@ -28,6 +26,7 @@
 ||www.layuicdn.com^
 ||www.libvideo.com^
 ||www.yxssp.com^
+||xz.pphimalayanrt.com^
 ||00cdn.com^
 ||0123456789.com^
 ||0379home.com^
@@ -1036,7 +1035,6 @@
 ||computeinit.com^
 ||comsenz.com^
 ||concertos.live^
-||content.steamchina.com^
 ||contentchina.com^
 ||coolapk.com^
 ||coolapkmarket.com^
@@ -1182,6 +1180,9 @@
 ||discuz.org^
 ||diyiyou.com^
 ||dj99.com^
+||dl.bscstorage.net^
+||dl.eccdnx.com^
+||dl.pinyuncloud.com^
 ||dlgslb.net^
 ||dlnel.com^
 ||dlnel.org^
@@ -1734,6 +1735,7 @@
 ||ibaotu.com^
 ||ibcet.org^
 ||ibidian.com^
+||ibreader.com^
 ||ibuychem.com^
 ||ibytedapm.com^
 ||ica-alliance.org^
@@ -2225,6 +2227,7 @@
 ||leju.com^
 ||lemall.com^
 ||lemicp.com^
+||lenovomm.com^
 ||letitfly.me^
 ||leturich.org^
 ||letv.com^
@@ -3006,6 +3009,10 @@
 ||staticdn.net^
 ||staticfile.org^
 ||stcn.com^
+||steam.clngaa.com^
+||steam.ksyna.com^
+||steamchina.com^
+||steamcontent.tnkjmec.com^
 ||steampp.net^
 ||steamserver.net^
 ||stockstar.com^
@@ -3463,6 +3470,7 @@
 ||wjx.com^
 ||wjx.top^
 ||wkcdn.com^
+||wmsjsteam.com^
 ||wmzhe.com^
 ||wnhuifu.com^
 ||wo116114.com^

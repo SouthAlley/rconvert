@@ -1,5 +1,5 @@
-# Adblock total line 3707
-# Last updated Mon 01/01/2024 22:17:09.45
+# Adblock total line 3722
+# Last updated Thu 01/04/2024 22:17:35.07
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -163,6 +163,7 @@
 ||badges.gitter.im^
 ||badges.greenkeeper.io^
 ||binaries.prisma.sh^
+||binary-factory.kde.org^
 ||blacklist.tampermonkey.net^
 ||boards.greenhouse.io^
 ||boot.netboot.xyz^
@@ -273,6 +274,7 @@
 ||cdn.hellofresh.com^
 ||cdn.hentaibomb.com^
 ||cdn.heysavvy.com^
+||cdn.hyperbeam.com^
 ||cdn.imageengine.io^
 ||cdn.img.ly^
 ||cdn.ip2location.io^
@@ -495,6 +497,8 @@
 ||e3.365dm.com^
 ||easylist-downloads.adblockplus.org^
 ||ec-prod.scene7.com^
+||edge-consumer-static.azureedge.net^
+||edge-mobile-static.azureedge.net^
 ||edge.cwtv-vod-ext.top.comcast.net^
 ||edge.personalizer.io^
 ||edgedl.me.gvt4.com^
@@ -693,6 +697,7 @@
 ||info.knak.com^
 ||install.virtfusion.net^
 ||interactive.guim.co.uk^
+||invent.kde.org^
 ||ipfs.d.tube^
 ||iterm2.com^
 ||j.udn.com.tw^
@@ -866,6 +871,7 @@
 ||player.h-cdn.com^
 ||player.louisvuitton.com^
 ||playwright.azureedge.net^
+||plugins.dprint.dev^
 ||plus.unsplash.com^
 ||polyfill.bbhub.io^
 ||polyfill.mailchimp.com^
@@ -1190,6 +1196,7 @@
 ||topbar-static.piano.io^
 ||tracker.cdnbye.com^
 ||typescript.azureedge.net^
+||typescript.visualstudio.com^
 ||ubistatic-a.ubisoft.com^
 ||ubistatic2-a.ubisoft.com^
 ||ui.trailhead.com^
@@ -1269,6 +1276,7 @@
 ||www.pngmart.com^
 ||www.typescriptlang.org^
 ||wwwimages2.adobe.com^
+||xpaywalletcdn.azureedge.net^
 ||ysa-static.passport.yandex.net^
 ||yummlystatic.com^
 ||10musume.com^
@@ -1647,6 +1655,7 @@
 ||connatix.com^
 ||containersonaws.com^
 ||content.jwplatform.com^
+||content001.bet365.com^
 ||control.kochava.com^
 ||convertio.co^
 ||convertio.me^
@@ -1983,10 +1992,12 @@
 ||file-upload.com^
 ||file-upload.net^
 ||file.al^
+||file.io^
 ||file.karelia.ru^
 ||file.town^
 ||file4safe.com^
 ||filebin.ca^
+||filebin.net^
 ||fileblade.com^
 ||fileboom.me^
 ||filecad.com^
@@ -2437,6 +2448,7 @@
 ||ik.imagekit.io^
 ||ilovepdf.com^
 ||imagebam.com^
+||imageban.ru^
 ||imagedelivery.net^
 ||images-amazon.com^
 ||images-iherb.com^
@@ -3192,6 +3204,7 @@
 ||soundcloud.com^
 ||soundcloudmail.com^
 ||sourceforge.com^
+||sourceforge.io^
 ||sourceforge.net^
 ||spaindisney.com^
 ||speed-down.org^
@@ -3284,6 +3297,7 @@
 ||telegra.ph^
 ||telegram-cdn.org^
 ||telemundo.com^
+||temp.sh^
 ||tenvoi.com^
 ||teraboxcdn.com^
 ||testonfox.com^
@@ -3324,6 +3338,7 @@
 ||tlauncherrepo.com^
 ||tln4.ru^
 ||tmp.link^
+||tmpfiles.org^
 ||tnastatic.com^
 ||top4top.net^
 ||trackerslist.com^

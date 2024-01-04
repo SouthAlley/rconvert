@@ -1,5 +1,5 @@
-# Quantumult total line 2135
-# Last updated Mon 01/01/2024 22:17:00.76
+# Quantumult total line 2147
+# Last updated Thu 01/04/2024 22:17:25.21
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -457,6 +457,8 @@ HOST,e3.365dm.com,LIST
 HOST,eaassets-a.akamaihd.net,LIST
 HOST,easylist-downloads.adblockplus.org,LIST
 HOST,ec-prod.scene7.com,LIST
+HOST,edge-consumer-static.azureedge.net,LIST
+HOST,edge-mobile-static.azureedge.net,LIST
 HOST,edge.personalizer.io,LIST
 HOST,eep.io,LIST
 HOST,embed-ssl.wistia.com,LIST
@@ -812,6 +814,7 @@ HOST,player.louisvuitton.com,LIST
 HOST,player.vimeo.com,LIST
 HOST,playwright.azureedge.net,LIST
 HOST,plugins-artifacts.gradle.org,LIST
+HOST,plugins.dprint.dev,LIST
 HOST,plus.unsplash.com,LIST
 HOST,polyfill.bbhub.io,LIST
 HOST,polyfill.mailchimp.com,LIST
@@ -1167,6 +1170,7 @@ HOST,tvdownloaddw-a.akamaihd.net,LIST
 HOST,twemoji.maxcdn.com,LIST
 HOST,typeface.nyt.com,LIST
 HOST,typescript.azureedge.net,LIST
+HOST,typescript.visualstudio.com,LIST
 HOST,ubistatic-a.ubisoft.com,LIST
 HOST,ubistatic2-a.akamaihd.net,LIST
 HOST,ubistatic2-a.ubisoft.com,LIST
@@ -1247,6 +1251,7 @@ HOST,www.datocms-assets.com,LIST
 HOST,www.pngmart.com,LIST
 HOST,www.typescriptlang.org,LIST
 HOST,wwwimages2.adobe.com,LIST
+HOST,xpaywalletcdn.azureedge.net,LIST
 HOST,yep.video.yahoo.com,LIST
 HOST,ysa-static.passport.yandex.net,LIST
 HOST,yummlystatic.com,LIST
@@ -1360,6 +1365,7 @@ HOST-SUFFIX,cms.replit.com,LIST
 HOST-SUFFIX,codeberg.page,LIST
 HOST-SUFFIX,codepenassets.com,LIST
 HOST-SUFFIX,combinatronics.io,LIST
+HOST-SUFFIX,content001.bet365.com,LIST
 HOST-SUFFIX,coral.coralproject.net,LIST
 HOST-SUFFIX,cos.ap-bangkok.myqcloud.com,LIST
 HOST-SUFFIX,cos.ap-hongkong.myqcloud.com,LIST
@@ -1420,6 +1426,8 @@ HOST-SUFFIX,fbcdn.com,LIST
 HOST-SUFFIX,fbcdn.net,LIST
 HOST-SUFFIX,fbsbx.com,LIST
 HOST-SUFFIX,file.core.windows.net,LIST
+HOST-SUFFIX,file.io,LIST
+HOST-SUFFIX,filebin.net,LIST
 HOST-SUFFIX,files.gitbook.io,LIST
 HOST-SUFFIX,files.wordpress.com,LIST
 HOST-SUFFIX,firebaseapp.com,LIST
@@ -1488,6 +1496,7 @@ HOST-SUFFIX,ignimgs.com,LIST
 HOST-SUFFIX,iili.io,LIST
 HOST-SUFFIX,ik.imagekit.io,LIST
 HOST-SUFFIX,imagebam.com,LIST
+HOST-SUFFIX,imageban.ru,LIST
 HOST-SUFFIX,imagedelivery.net,LIST
 HOST-SUFFIX,images-iherb.com,LIST
 HOST-SUFFIX,images.androeed.ru,LIST
@@ -2016,6 +2025,7 @@ HOST-SUFFIX,smassets.net,LIST
 HOST-SUFFIX,smilecdn.co,LIST
 HOST-SUFFIX,sndcdn.com,LIST
 HOST-SUFFIX,software-download.microsoft.com,LIST
+HOST-SUFFIX,sourceforge.io,LIST
 HOST-SUFFIX,sqspcdn.com,LIST
 HOST-SUFFIX,squarespace-cdn.com,LIST
 HOST-SUFFIX,ss-cdn.com,LIST
@@ -2045,12 +2055,14 @@ HOST-SUFFIX,swiftypecdn.com,LIST
 HOST-SUFFIX,t.staticblitz.com,LIST
 HOST-SUFFIX,tapecontent.net,LIST
 HOST-SUFFIX,tedcdn.com,LIST
+HOST-SUFFIX,temp.sh,LIST
 HOST-SUFFIX,teraboxcdn.com,LIST
 HOST-SUFFIX,thisiscdn.com,LIST
 HOST-SUFFIX,tildacdn.com,LIST
 HOST-SUFFIX,tile.openstreetmap.org,LIST
 HOST-SUFFIX,tile.osm.org,LIST
 HOST-SUFFIX,tiqcdn.com,LIST
+HOST-SUFFIX,tmpfiles.org,LIST
 HOST-SUFFIX,tnastatic.com,LIST
 HOST-SUFFIX,trackerslist.com,LIST
 HOST-SUFFIX,transcend-cdn.com,LIST
