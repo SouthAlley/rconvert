@@ -1,5 +1,5 @@
-# Quantumult total line 2147
-# Last updated Thu 01/04/2024 22:17:25.21
+# Quantumult total line 2151
+# Last updated Sun 01/07/2024 22:16:23.34
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -768,6 +768,7 @@ HOST,opt.moovweb.net,LIST
 HOST,optimizely.com,LIST
 HOST,optimizely.wsj.net,LIST
 HOST,organizer.bizzabo.com,LIST
+HOST,osint.digitalside.it,LIST
 HOST,oss-binaries.phusionpassenger.com,LIST
 HOST,oss.moe.cat,LIST
 HOST,ovo.wxw.moe,LIST
@@ -787,6 +788,7 @@ HOST,pcdn-my.pcloud.com,LIST
 HOST,pcdn-www.pcloud.com,LIST
 HOST,pcz.javidol.org,LIST
 HOST,pengtu.cc,LIST
+HOST,phishing.army,LIST
 HOST,photos5.appleinsider.com,LIST
 HOST,pic.7mmtv.me,LIST
 HOST,pic.cangku.moe,LIST
@@ -1672,6 +1674,7 @@ HOST-SUFFIX,parastorage.com,LIST
 HOST-SUFFIX,pastebin.com,LIST
 HOST-SUFFIX,permaweb.eu.org,LIST
 HOST-SUFFIX,permaweb.io,LIST
+HOST-SUFFIX,pgl.yoyo.org,LIST
 HOST-SUFFIX,phncdn.com,LIST
 HOST-SUFFIX,photobucket.com,LIST
 HOST-SUFFIX,pimg.tw,LIST
@@ -2025,6 +2028,7 @@ HOST-SUFFIX,smassets.net,LIST
 HOST-SUFFIX,smilecdn.co,LIST
 HOST-SUFFIX,sndcdn.com,LIST
 HOST-SUFFIX,software-download.microsoft.com,LIST
+HOST-SUFFIX,someonewhocares.org,LIST
 HOST-SUFFIX,sourceforge.io,LIST
 HOST-SUFFIX,sqspcdn.com,LIST
 HOST-SUFFIX,squarespace-cdn.com,LIST

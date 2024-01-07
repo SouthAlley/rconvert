@@ -1,5 +1,5 @@
 # Quantumult total line 4096
-# Last updated Thu 01/04/2024 22:17:42.34
+# Last updated Sun 01/07/2024 22:16:39.14
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,a.iqmtp.live,LIST
 HOST,analytics.strava.com,LIST

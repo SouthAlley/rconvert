@@ -1,5 +1,5 @@
-# Clash total line 2147
-# Last updated Thu 01/04/2024 22:17:25.26
+# Clash total line 2151
+# Last updated Sun 01/07/2024 22:16:23.37
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,0x0.st
@@ -769,6 +769,7 @@ payload:
   - DOMAIN,optimizely.com
   - DOMAIN,optimizely.wsj.net
   - DOMAIN,organizer.bizzabo.com
+  - DOMAIN,osint.digitalside.it
   - DOMAIN,oss-binaries.phusionpassenger.com
   - DOMAIN,oss.moe.cat
   - DOMAIN,ovo.wxw.moe
@@ -788,6 +789,7 @@ payload:
   - DOMAIN,pcdn-www.pcloud.com
   - DOMAIN,pcz.javidol.org
   - DOMAIN,pengtu.cc
+  - DOMAIN,phishing.army
   - DOMAIN,photos5.appleinsider.com
   - DOMAIN,pic.7mmtv.me
   - DOMAIN,pic.cangku.moe
@@ -1673,6 +1675,7 @@ payload:
   - DOMAIN-SUFFIX,pastebin.com
   - DOMAIN-SUFFIX,permaweb.eu.org
   - DOMAIN-SUFFIX,permaweb.io
+  - DOMAIN-SUFFIX,pgl.yoyo.org
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,photobucket.com
   - DOMAIN-SUFFIX,pimg.tw
@@ -2026,6 +2029,7 @@ payload:
   - DOMAIN-SUFFIX,smilecdn.co
   - DOMAIN-SUFFIX,sndcdn.com
   - DOMAIN-SUFFIX,software-download.microsoft.com
+  - DOMAIN-SUFFIX,someonewhocares.org
   - DOMAIN-SUFFIX,sourceforge.io
   - DOMAIN-SUFFIX,sqspcdn.com
   - DOMAIN-SUFFIX,squarespace-cdn.com

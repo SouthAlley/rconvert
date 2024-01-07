@@ -1,5 +1,5 @@
-# Adblock total line 2147
-# Last updated Thu 01/04/2024 22:17:25.33
+# Adblock total line 2151
+# Last updated Sun 01/07/2024 22:16:23.45
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -768,6 +768,7 @@
 ||optimizely.com^
 ||optimizely.wsj.net^
 ||organizer.bizzabo.com^
+||osint.digitalside.it^
 ||oss-binaries.phusionpassenger.com^
 ||oss.moe.cat^
 ||ovo.wxw.moe^
@@ -787,6 +788,7 @@
 ||pcdn-www.pcloud.com^
 ||pcz.javidol.org^
 ||pengtu.cc^
+||phishing.army^
 ||photos5.appleinsider.com^
 ||pic.7mmtv.me^
 ||pic.cangku.moe^
@@ -1672,6 +1674,7 @@
 ||pastebin.com^
 ||permaweb.eu.org^
 ||permaweb.io^
+||pgl.yoyo.org^
 ||phncdn.com^
 ||photobucket.com^
 ||pimg.tw^
@@ -2025,6 +2028,7 @@
 ||smilecdn.co^
 ||sndcdn.com^
 ||software-download.microsoft.com^
+||someonewhocares.org^
 ||sourceforge.io^
 ||sqspcdn.com^
 ||squarespace-cdn.com^

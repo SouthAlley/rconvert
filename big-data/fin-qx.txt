@@ -1,5 +1,5 @@
-# Quantumult total line 4658
-# Last updated Thu 01/04/2024 22:17:34.95
+# Quantumult total line 4663
+# Last updated Sun 01/07/2024 22:16:32.06
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,0x0.st,LIST
 HOST,9191.ga,LIST
@@ -828,6 +828,7 @@ HOST,optimizely.com,LIST
 HOST,optimizely.wsj.net,LIST
 HOST,organizer.bizzabo.com,LIST
 HOST,os-cdn.virtfusion.net,LIST
+HOST,osint.digitalside.it,LIST
 HOST,oss-binaries.phusionpassenger.com,LIST
 HOST,oss.moe.cat,LIST
 HOST,ovo.wxw.moe,LIST
@@ -847,6 +848,7 @@ HOST,participants.evolv.ai,LIST
 HOST,parts.blog.livedoor.jp,LIST
 HOST,pcz.javidol.org,LIST
 HOST,pengtu.cc,LIST
+HOST,phishing.army,LIST
 HOST,photos5.appleinsider.com,LIST
 HOST,pic.7mmtv.me,LIST
 HOST,pic.cangku.moe,LIST
@@ -1877,6 +1879,7 @@ HOST-SUFFIX,download,LIST
 HOST-SUFFIX,download.gg,LIST
 HOST-SUFFIX,download.mokeedev.com,LIST
 HOST-SUFFIX,download.prss.microsoft.com,LIST
+HOST-SUFFIX,download.windowsupdate.com,LIST
 HOST-SUFFIX,downloadly.ir,LIST
 HOST-SUFFIX,downloadly.net,LIST
 HOST-SUFFIX,downloads.skype.com,LIST
@@ -2950,6 +2953,7 @@ HOST-SUFFIX,periscope.tv,LIST
 HOST-SUFFIX,permaweb.eu.org,LIST
 HOST-SUFFIX,permaweb.io,LIST
 HOST-SUFFIX,persagg.com,LIST
+HOST-SUFFIX,pgl.yoyo.org,LIST
 HOST-SUFFIX,phncdn.com,LIST
 HOST-SUFFIX,photobucket.com,LIST
 HOST-SUFFIX,photos.live.com,LIST
@@ -3198,6 +3202,7 @@ HOST-SUFFIX,soccermatchpass.com,LIST
 HOST-SUFFIX,socdm.com,LIST
 HOST-SUFFIX,software-download.microsoft.com,LIST
 HOST-SUFFIX,solidfiles.com,LIST
+HOST-SUFFIX,someonewhocares.org,LIST
 HOST-SUFFIX,sonycrackle.club,LIST
 HOST-SUFFIX,sorcerersarena.com,LIST
 HOST-SUFFIX,soundcloud.app.goo.gl,LIST

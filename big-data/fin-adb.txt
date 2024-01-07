@@ -1,5 +1,5 @@
-# Adblock total line 3722
-# Last updated Thu 01/04/2024 22:17:35.07
+# Adblock total line 3727
+# Last updated Sun 01/07/2024 22:16:32.17
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||0x0.st^
 ||9191.ga^
@@ -828,6 +828,7 @@
 ||optimizely.wsj.net^
 ||organizer.bizzabo.com^
 ||os-cdn.virtfusion.net^
+||osint.digitalside.it^
 ||oss-binaries.phusionpassenger.com^
 ||oss.moe.cat^
 ||ovo.wxw.moe^
@@ -847,6 +848,7 @@
 ||parts.blog.livedoor.jp^
 ||pcz.javidol.org^
 ||pengtu.cc^
+||phishing.army^
 ||photos5.appleinsider.com^
 ||pic.7mmtv.me^
 ||pic.cangku.moe^
@@ -1877,6 +1879,7 @@
 ||download.gg^
 ||download.mokeedev.com^
 ||download.prss.microsoft.com^
+||download.windowsupdate.com^
 ||downloadly.ir^
 ||downloadly.net^
 ||downloads.skype.com^
@@ -2950,6 +2953,7 @@
 ||permaweb.eu.org^
 ||permaweb.io^
 ||persagg.com^
+||pgl.yoyo.org^
 ||phncdn.com^
 ||photobucket.com^
 ||photos.live.com^
@@ -3198,6 +3202,7 @@
 ||socdm.com^
 ||software-download.microsoft.com^
 ||solidfiles.com^
+||someonewhocares.org^
 ||sonycrackle.club^
 ||sorcerersarena.com^
 ||soundcloud.app.goo.gl^
