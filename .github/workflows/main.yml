@@ -14,12 +14,9 @@ jobs:
         continue-on-error: false
         timeout-minutes: 20
         run: |
-          .\r.cmd a2
           .\r.cmd a1
-          .\r.cmd cdn
-          .\r.cmd big-data
-          .\r.cmd dirt
-      - name: commit
+
+      - name: 提交
         continue-on-error: false
         timeout-minutes: 10
         run: |
